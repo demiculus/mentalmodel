@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "http://mentalmodel.github.io/" # the base hostname & protocol for your site
+url                          : "https://mmpractices.com" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 title                      : Mental Model Practices
