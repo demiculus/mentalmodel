@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="container mt-4">
+
+  <h1 class="h3">{{ page.name }}</h1>
+
+  <b>Benefit: </b>{{ page.benefit }}
+  <br>
+  <b>Prerequisites: </b>{{ page.prerequisites }}
+  <br>
+  <br>
+
+  <!-- <h2>Researchers</h2> -->
+
+  <!-- <ul> -->
+    <!--   <li> -->
+      <!--     {{ page.researcher }} -->
+      <!--   </li> -->
+    <!-- </ul> -->
+
+  <!-- <h2>Relevant Links</h2> -->
+
+  <!-- {% if page.cmc_id %} -->
+  <!-- <a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a> -->
+  <!-- {% endif %} -->
+
+  {{ page.content }}
+
+</div>
+
+<div class="container mt-5">
+  {% include externals/disqus.html %}
+</div>
+
+<div class="call-to-action mt-4 py-3">
+  <a href="{{ '/' | prepend: site.baseurl }}" class="btn btn-light">
+      Check out more mental models
+    </a>
+</div>

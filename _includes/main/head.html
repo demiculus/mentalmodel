@@ -1,0 +1,73 @@
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<title>
+  {% if page.layout == "analysis" %}
+  {% for coin in site.coins %}
+  {% if coin.slug == page.coin %}
+  {{ coin.name }}
+  {% endif %}
+  {% endfor %}
+  -
+  {% for researcher in site.researchers %}
+  {% if researcher.slug == page.researcher %}
+  {{ researcher.name }}
+  {% endif %}
+  {% endfor %}
+  |
+  {{ site.title }}
+  {% else %}
+  {% if page.title %}
+  {{ page.title }}
+  {% endif %}
+  |
+  {{ site.title }}
+  {% endif %}
+</title>
+
+
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.blog.description }}{% endif %}">
+{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png" | prepend: site.baseurl }}" >
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
+
+<!-- Google plus -->
+<meta name="author" content="{{ site.author.googleplus }}">
+<link rel="author" href="{{ site.author.googleplus }}">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="{{ site.lang }}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:site_name" content="{{ site.blog.title }}">
+
+
+<!-- Styles -->
+<link rel="stylesheet" href="{{ "assets/vendor/normalize-css/normalize.css" | relative_url }}"/>
+<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}"/>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<!-- <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script> -->
+
+<script src="/assets/js/bootstrap.bundle.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css"/>
+
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+

@@ -1,0 +1,35 @@
+<div class="bg-dark">
+  <div class="container">
+
+    <header>
+      <div class="py-4 row align-items-center">
+
+        <div class="col-auto mr-auto">
+
+          <!-- <a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a> -->
+          <a href="{{ '/' | prepend: site.baseurl }}" class="text-light">
+              <img class="logosvg" src="{{ '/assets/img/logo_light.png' | prepend: site.baseurl }}">
+            </a>
+            <!-- <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">Your browser does not support svg images</object> -->
+        </div>
+
+        <div class="col-auto align-bottom">
+          <nav class="nav nav-masthead justify-content-center">
+
+            <a class="nav-link text-light" href="{{ '/links' | prepend: site.baseurl }}">
+              <span class="fa fa-external-link"></span>
+              Links
+            </a>
+
+            <a class="nav-link text-light" href="{{ '/about' | prepend: site.baseurl }}">
+              <span class="fa fa-info-circle"></span>
+              About
+            </a>          
+          </nav>
+        </div>
+      </div>
+      <!-- <div class="row py-3"> -->
+        <!-- </div> -->
+    </header>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+{% assign rawcoins = "" %}
+{% for coin in site.coins %}
+  {% assign rawcoins = rawcoins | append:coin.name %}
+{% endfor %}
+{% assign rawcoins = rawcoins | split:'|' | sort %}
+
+{% assign site.tags = "" %}
+{% for tag in rawcoins %}
+  {% if tag != "" %}
+    {% if tags == "" %}
+      {% assign tags = tag | split:'|' %}
+    {% endif %}
+    {% unless tags contains tag %}
+      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}

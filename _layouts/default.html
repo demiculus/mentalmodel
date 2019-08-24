@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include main/head.html %}
+    {% include externals/google_analytics.html %}
+  </head>
+
+  <body>
+    {% include main/header.html %}
+
+    {{ content }}
+
+    {% include main/footer.html %}
+
+    {% include externals/scripting.html %}
+  </body>
+
+</html>
+

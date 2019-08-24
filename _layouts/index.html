@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+
+{% assign site_lang = 'en' %}
+{% assign mental_models = site.mental_models %}
+
+<div class="call-to-action py-3">
+  <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
+    Subscribe
+  </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">
+              <span class="fa fa-discord"></span>
+              Join our Discord Channel
+            </a>
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://twitter.com/demiculus" target="_blank">
+              <span class="fa fa-twitter"></span>
+              Follow on Twitter
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="container pb-5">
+  <div class="text-center mt-5 mb-4">
+    <!-- <h1 class="h3">
+      Mental Model Practices
+    </h1> -->
+  </div>
+
+  <table id="coin-table" class="sortable table wrap display dt-responsive" style="width:100%">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="Each mental model benefits the user in someway">Benefit</th>
+        <th class="text-center">Summary</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for mental_model in mental_models %}
+      <tr>
+        <td data-order="{{ mental_model.name }}" class="align-middle">
+          <a href="{{ mental_model.url | prepend: site.baseurl }}" target="_blank">
+            <span>{{ mental_model.name }}</span>
+          </a>
+        </td>
+        <td class="text-center align-middle">
+            {{ mental_model.benefit }}
+        </td>
+        <td class="text-center align-middle">{{ mental_model.summary }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<script>
+  $(document).ready(function() {
+  $('#coin-table').DataTable({
+  "order": [[ 3, "desc" ]],
+  responsive: true,
+  });
+  $('[data-toggle="tooltip"]').tooltip();
+  } );
+</script>
