@@ -56,6 +56,6 @@ Method 2:
     2. Making a system where our users try to bring in more players & teach them one by one.
     3. We can design our marketing, social media structure in a ways that it is run by the community. They create the posts, they vote on the posts and the posts are automatically posted on the social medias. We just set the rules.
 
-#### Extra Reads
+#### Extra
 
 [George Mcgill Tweet Storm](https://twitter.com/george__mack/status/1068238562443841538)
