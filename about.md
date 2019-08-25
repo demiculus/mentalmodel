@@ -30,7 +30,7 @@ I use [evernote](https://www.evernote.com/referral/Registration.action?sig=3bccb
 
 ### Contribution
 
-Feel free to add your own mental models here: https://github.com/demiculus/mentalmodel/tree/master/_mental_models
+Feel free to add your own mental models [here](https://github.com/demiculus/mentalmodel/tree/master/_mental_models). Let [me know](mailto: demirbyilmaz@gmail.com) if you don't know how to use github.
 
 ### Having a Hard Time
 
