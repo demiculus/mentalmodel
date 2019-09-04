@@ -10,6 +10,8 @@ prerequisites:
 
 The amount of serendipity that will occur in your life, your Luck Surface Area, is directly proportional to the degree to which you do something you're passionate about combined with the total number of people to whom this is effectively communicated. It's a simple concept, but an extremely powerful one because what it implies is that you can directly control the amount of luck you receive. In other words, you make your own luck. [source](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 
+![Luck Surface Area](../assets/img/luck-surface-area.png "title")
+
 #### Practice
 
 Method1 From doing: 
