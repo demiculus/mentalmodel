@@ -43,7 +43,11 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 - If I dwell on the thoughts of my ex
 - If I don't do anything that'll make me feel accomplised (cleaning house, reading a book, shopping ..)
 
-#### Extra Reads
+#### Extra
 
-[Farnam Street - Inversion](https://fs.blog/2013/10/inversion/)
+- [Farnam Street - Inversion](https://fs.blog/2013/10/inversion/)
+- [
+Progress Leaves Clues - Inverse Thinking](https://www.youtube.com/watch?v=BuK8XNwaUVo)
+- [James Clear - Inversion](https://jamesclear.com/inversion)
+
 

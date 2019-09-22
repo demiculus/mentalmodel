@@ -15,6 +15,7 @@ published: true
 ### Podcasts/Videos
 
 - [Mental Models 101 - How To Make Better Decisions - George MacGill - Modern Wisdom Podcast #069](https://www.youtube.com/watch?v=m_56L8EGLIk)
+- [Profress Leaves Clues](https://www.youtube.com/channel/UCqwv2pNwm2toS7IzZrvLGPA) youtube channel on mental models.
 
 ### Blogs
 
