@@ -7,12 +7,12 @@ published: true
 
 # About
 
-Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing bug fixing. Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn(install) each mental model. I haven't made a bug fixing tool yet, but if you want to get a head start find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](demiculus.com)
+Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing [bug fixing](https://mmpractices.com/bug-fixing/). Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn(install) each mental model. If you run into any trouble you can find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](demiculus.com)
 
 ### Prerequisite
 
 Each mental model is built on top of other Mental-Models. 
-A good example for this is in order to learn Basic Arithmethics you first need to learn Numbers.
+A good example for this is in order to learn Basic Arithmethics you first need to learn Numbers. [Learn more about prerequisites](https://mmpractices.com/mental_models/prerequisites/).
 
 ### Learning(Installing)
 
