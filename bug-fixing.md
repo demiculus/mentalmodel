@@ -37,29 +37,29 @@ An example usage would be;
 > Q: Why was I not able to afford the newest iPhone?
 > 
 > A: Because I spent all my extra money on dining out with friends.
-
+>
 > Q: Why did I spend so much to hangout with friends?
-
+>
 > A: Because I want to be accepted by them and I believe money is the only thing I can contribute.
-
+>
 > Q1: Why do I want to be accepted by them?
-
+>
 > A1: Otherwise I will be lonely. I don't want to be lonely.
-
+>
 > Q1: Why do I not want to be lonely?
-
+>
 > A1: Because I will think about all my lifes problems and I'm trying to avoid it.
-
+>
 > Q1: Why am I avoiding my lifes problems?
-
+>
 > A1: Because it feels like I won't be able to handle them.
-
+>
 > Q2: Why do I think money is the only thing I can contribute?
-
+>
 > A2: Because I don't think my personality is great.
-
+>
 > Q2: Why don't I think my personality is great?
-
+>
 > A2: Because I was raised without self-confidence.
 
 Here we found 2 core bugs. 
@@ -94,7 +94,4 @@ A: Min 1 month
 Q: What if the tools I obtained don't work in fixing the core bug?
 
 A: You might not be using it the right way or it might not be the correct tool for you. Try learning about different tools to fix it.
-
---
-
 
