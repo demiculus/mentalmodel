@@ -7,7 +7,7 @@ published: true
 
 # About
 
-Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing [bug fixing](https://mmpractices.com/bug-fixing/). Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn(install) each mental model. If you run into any trouble you can find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](demiculus.com)
+Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing [bug fixing](https://mmpractices.com/bug-fixing/). Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn(install) each mental model. If you run into any trouble you can find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](https://demiculus.com/)
 
 ### Prerequisite
 
