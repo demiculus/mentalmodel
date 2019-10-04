@@ -35,7 +35,13 @@ Method 2:
 1. Define your 10 year goal.
 2. Write down all the ways you can achieve it in 6 months.
 
-#### Example-1
+Method 3: 
+
+1. Think of a small goal
+2. Think of the limitations you’re telling yourself that prevent you from achieving the goal.
+3. Repeat this 3 times “These limitations are not universal, they are just in my head. They are excuses for not achieving my goal. I shall stop believing those limitations"
+
+#### Method 1 Example 1
 
 1. I will do a presentation next week
 2. My goal is to increase my Luck Surface Area by telling people what I’m doing
@@ -46,7 +52,7 @@ Method 2:
     3. Get featured on a youtube talk show
     4. Contact podcasters and try to become a guest
 
-#### Example-2
+#### Method 1 Example 2
 
 1. Hire a marketer
 2. Delegate/outsource our marketing tasks
@@ -55,6 +61,21 @@ Method 2:
     1. Making a gamified system where our users can write catan posts on our forums & get rewards, street creds etc.
     2. Making a system where our users try to bring in more players & teach them one by one.
     3. We can design our marketing, social media structure in a ways that it is run by the community. They create the posts, they vote on the posts and the posts are automatically posted on the social medias. We just set the rules.
+
+#### Method 2 Example
+
+1. My 10 year goal is to create a $B company.
+2. Ways I can achieve it in 6 months:
+	1. Get lots of investments
+	2. Connect with the most experienced/knowledgable people in the field. Email them, call them, fly to their location.
+	3. Connect with the enthusiasts in my field and get them to work with me.
+
+
+#### Method 3 Example
+
+1. Goal: Doing flare in breakdance
+2. Limitations: I need to be stronger & more flexible in order to do it.
+3. Me needing to be stronger & flexible to do flare is in my head and not universal. They are excuses for not achieving my goal. I shall stop believing these limitations. I can do amazing flares without being stronger or flexible.
 
 #### Extra
 
