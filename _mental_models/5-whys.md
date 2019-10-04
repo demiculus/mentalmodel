@@ -10,6 +10,8 @@ prerequisites:
 
 By asking why multiple times we can have a deeper understanding on the causes of the higher level problem.
 
+The goal is to land on a what or a how.
+
 https://en.wikipedia.org/wiki/5_Whys
 
 #### Practice
