@@ -1,8 +1,8 @@
 ---
 layout: mental-model
 name: Gratitude
-benefit: Decreases negative, increases positive thoughts
-summary: Being grateful to what we have helps us look from the positive angle.
+benefit: Increases positive thoughts
+summary: Being grateful helps us look from the positive angle.
 prerequisites:
 ---
 
