@@ -14,9 +14,9 @@ Imagine your mind as an operating system. Ever since you've come to this world y
 Each mental model is built on top of other Mental-Models. 
 A good example for this is in order to learn Basic Arithmethics you first need to learn Numbers. [Learn more about prerequisites](https://mmpractices.com/mental_models/prerequisites/).
 
-### Learning(Installing)
+### Learning
 
-You are not only changing your mind but also changing your brain physically. It will take a couple days for you to learn the basics and a couple weeks for the Mental-Model to be stable. Just go through the practices daily for a month and you will have successfully changed your brain.
+Check out [Learning Page](/learning)
 
 ### Ways To Practice
 
@@ -41,6 +41,6 @@ If you're having a hard time with a specific mental model you probably are missi
 Spacing Effect - https://collegeinfogeek.com/spaced-repetition-memory-technique/
 This doesn't seem to work very well to attain new habits (change your brain) but works to keep information. I suggest practicing daily for the first 20 days. -->
 
-### Donation
+### To Request Personal Training
 
 [Reach out](https://demiculus.com/)
