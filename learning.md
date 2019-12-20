@@ -21,6 +21,8 @@ Don't forget the importance of sleep and washing away the toxins during our days
 
 <img src="/assets/img/sleep.png" alt="Sleep" width="500"/>
 
-### To Request Personal Training
+<b>To Request Personal Training [Reach out](https://demiculus.com/)<b>
 
-[Reach out](https://demiculus.com/)
+### Resources
+
+[Coursera - Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
