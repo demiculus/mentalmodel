@@ -1,7 +1,7 @@
 ---
 layout: mental-model
 name: Process
-benefit: Decreases burnout, increases consistancy
+benefit: Decreases burnout, increases consistency
 summary: Having a process & aim instead of goals make it more likely achieving it.
 prerequisites:
 ---
@@ -28,7 +28,7 @@ By having aim + process instead of goals we decrease the negative possiblities w
 - Becoming better
 - Good feeling when we reach a milestone
 
-Note1: A process is a `Small Consistant Set of Goals`. If you make the process hard it will be the same as setting a normal goal. 
+Note1: A process is a `Small Consistent Set of Goals`. If you make the process hard it will be the same as setting a normal goal. 
 
 Note2: If you stop doing your process this means that your process is too hard. Dile it down. If your process includes 30 minutes of workout everyday and you stop doing it, decrease it to 10, if it is still too much decrease it to 5 or even 1 minutes. The compounding effect of doing 5 minute workout per day will be better than a 30 minute push and then stopping doing it. 
 
