@@ -24,9 +24,11 @@ Create a document for each mental model you're practicing on your notepad or a p
 Practice the mental-model for 30 days.
 I use [evernote](https://www.evernote.com/referral/Registration.action?sig=3bccbbd47549eb2344f32d1197bde8a9494256e8d55cd55f23e4bd8ce31add07&uid=89210166) and keep it like [this](http://prntscr.com/o88fhu), here is an [example page](http://prntscr.com/o88fyl).
 
-### Discord 
+### Keep In Touch 
 
-[Join the chat](https://discord.gg/mdTQnNH)
+Email: http://eepurl.com/gN28ZT
+Discord: https://discord.gg/mdTQnNH (join the chat)
+Twitter: https://twitter.com/demiculus
 
 ### Contribution
 
