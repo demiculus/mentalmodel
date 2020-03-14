@@ -26,9 +26,14 @@ I use [evernote](https://www.evernote.com/referral/Registration.action?sig=3bccb
 
 ### Keep In Touch 
 
+<script>
+    var ml_webform_1742136 = ml_account('webforms', '1742136', 'z9u7t4', 'load');
+    ml_webform_1742136('animation', 'fadeIn');
+</script>
+
 - Email: <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">Join our email list</a>
-- Discord: https://discord.gg/mdTQnNH (join the chat)
-- Twitter: https://twitter.com/demiculus
+- Discord: <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">Join the chat</a>
+- Twitter: <a class="btn btn-primary my-3" href="https://twitter.com/demiculus" target="_blank">Follow on Twitter</a>
 
 ### Contribution
 
