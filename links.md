@@ -32,6 +32,8 @@ published: true
 
 - [Michael Simmons](http://michaeldsimmons.com/most-people-think-this-is-a-smart-habit-but-its-actually-brain-damaging/)
 
+- [James Clear](https://jamesclear.com/mental-models)
+
 ### Others
 
 - [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
