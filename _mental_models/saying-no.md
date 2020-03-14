@@ -1,5 +1,5 @@
 ---
-layout: saying-no
+layout: mental-model
 name: Saying No
 benefit: Decreases being exploited
 summary: Saying yes to requests because you don't want to upset people can cause problems.
