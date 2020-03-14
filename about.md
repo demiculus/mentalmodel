@@ -26,9 +26,9 @@ I use [evernote](https://www.evernote.com/referral/Registration.action?sig=3bccb
 
 ### Keep In Touch 
 
-Email: http://eepurl.com/gN28ZT
-Discord: https://discord.gg/mdTQnNH (join the chat)
-Twitter: https://twitter.com/demiculus
+- Email: <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">Join our email list</a>
+- Discord: https://discord.gg/mdTQnNH (join the chat)
+- Twitter: https://twitter.com/demiculus
 
 ### Contribution
 
