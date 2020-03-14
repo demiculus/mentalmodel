@@ -1,8 +1,8 @@
 ---
 layout: saying-no
-name: Saying "No"
+name: Saying No
 benefit: Decreases being exploited
-summary: Saying "yes" to requests because you don't want to upset people can cause problems.
+summary: Saying yes to requests because you don't want to upset people can cause problems.
 prerequisites: 
 ---
 
