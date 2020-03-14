@@ -34,17 +34,38 @@ layout: default
   {% include externals/disqus.html %}
 </div> -->
 
-<script>
-    var ml_webform_1742136 = ml_account('webforms', '1742136', 'z9u7t4', 'load');
-    ml_webform_1742136('animation', 'fadeIn');
-</script>
+<div class="call-to-action py-3">
+  <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
+    Subscribe For New Practices
+  </button>
 
-<div class="call-to-action mt-4 py-3">
-<div class="text-center">
-    <a class="btn btn-light my-3" href="javascript:;" onclick="ml_webform_1742136('show')">
-      <span class="fa fa-discord"></span>
-      Subscribe
-    </a>
+  <!-- Modal -->
+  <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">
+              <span class="fa fa-discord"></span>
+              Join our email list
+            </a>
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">
+              <span class="fa fa-discord"></span>
+              Join our Discord Channel
+            </a>
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://twitter.com/demiculus" target="_blank">
+              <span class="fa fa-twitter"></span>
+              Follow on Twitter
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
   <!-- <a href="{{ '/' | prepend: site.baseurl }}" class="btn btn-light">
       Check out more mental models
