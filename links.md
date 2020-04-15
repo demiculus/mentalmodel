@@ -42,6 +42,8 @@ published: true
 
 - [True Mental Models](https://truementalmodels.com/)
 
+- [Charlie Munger Lindy Effect Book Recommendations](https://theantilibrary.com/#munger) 
+
 <a href="https://imgur.com/ICqWiG6"><img src="https://i.imgur.com/ICqWiG6.png" alt="drawing" width="500"/></a>
 
 
