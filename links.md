@@ -5,8 +5,6 @@ permalink: /links/
 published: true
 ---
 
-<!-- ### Books -->
-
 ### Twitters
 
 - [Demiculus](https://twitter.com/demiculus)
@@ -34,6 +32,10 @@ published: true
 
 - [James Clear](https://jamesclear.com/mental-models)
 
+### Tools
+
+- [Five Whys Tool](https://5whystool.mmpractices.com)
+
 ### Others
 
 - [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
@@ -45,7 +47,6 @@ published: true
 - [Charlie Munger Lindy Effect Book Recommendations](https://theantilibrary.com/#munger) 
 
 <a href="https://imgur.com/ICqWiG6"><img src="https://i.imgur.com/ICqWiG6.png" alt="drawing" width="500"/></a>
-
 
 ### Donation
 
