@@ -57,6 +57,6 @@ https://en.wikipedia.org/wiki/5_Whys
  - Why did I want to explore my sexuality?
  - Because I got a blast of hormons when I became a teenager.
 
- #### Extra
+#### Extra
 
- Feel free to use [this](https://5whystool.mmpractices.com/) tool for branching your thoughts.
+Feel free to use [this](https://5whystool.mmpractices.com/) tool for branching your thoughts.
