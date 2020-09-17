@@ -47,6 +47,7 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 
 
 - [Charlie Munger - Inversion](https://www.yapss.com/post/collection-charlie-munger-16-inversion-thinking-process)
+- [Charlie Munger - Commencement Address - USC - 16:15 - 17:30](https://youtu.be/5U0TE4oqj24?t=975) 
 - [Farnam Street - Inversion](https://fs.blog/2013/10/inversion/)
 - [
 Progress Leaves Clues - Inverse Thinking](https://www.youtube.com/watch?v=BuK8XNwaUVo)
