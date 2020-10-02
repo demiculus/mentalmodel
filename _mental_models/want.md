@@ -41,4 +41,4 @@ Because I have been moving around a lot lately and I am tired. I also want some 
 
 #### Resources
 
-- https://twitter.com/JamesClear/status/1301500683833823233
+- [James Clear Tweet](https://twitter.com/JamesClear/status/1301500683833823233)
