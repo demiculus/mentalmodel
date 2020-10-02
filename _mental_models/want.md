@@ -30,9 +30,13 @@ Get a practice journal, it can be an online notepad or something physical. Every
 ##### Example
 
 Oct 2 2020
+
 What do I want?
+
 Have a stable life.
+
 Why?
+
 Because I have been moving around a lot lately and I am tired. I also want some certainty in my life.
 
 #### Resources
