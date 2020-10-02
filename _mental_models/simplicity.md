@@ -12,18 +12,18 @@ prerequisites:
 
 The quote explains it pretty well. If something can be done in a simpler way without removing any attribute it should be simplified. In game development this is regarded as depth/complexity. A game is better if the complexity is decreased while keeping the depth same. An article is better if there are less words while the meaning is the same. A function is better if it does one simple thing. An ad is better if it is easily understandable. 
 
-There are 2 ways to make something simpler. 
+There are a few ways to make something simpler. 
 
-1. Remove parts of it;
+- Remove parts of it;
 
 This works very well with article. After writing go over it and try to read it by removing some words. If the meaning is same continue removing more words until you can't not remove any more words. 
 
-2. Use simpler parts;
+- Use simpler parts;
 
 This works in complicated systems. When writing if you can replace a sophisticated word with a basic one do it. When coding if you can use another functions/code again, do it.  
 
 
-3. Not doing it;
+- Not doing it;
 
 Warren Buffet constantly says, he avoids any business that looks complicated. If something is complex and you have the option to not do it, that might be the sound decision. Another way is postponing it until you figure out a way to do it in a simpler way. 
 
