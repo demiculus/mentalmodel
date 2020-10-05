@@ -10,7 +10,7 @@ prerequisites:
 
 Thinking how we can achieve our goal is forward thinking. Thinking ways we can't achieve our goal is backward thinking. Inversion is backward thinking. By inverting our thoughts we can break free from things that prevent us from achieving our goals. 
 
-#### Practice
+#### Practice-2
 
 1. Define something you want.
 2. Define the opposite of the thing you want.
@@ -18,7 +18,7 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 4. Answer the question by listing all the possible actions that come to your mind
 5. Get help from friends/family if it is something they can contribute to
 
-#### Example-1
+##### Example
 
 1. I want to have lots of time to work.
 2. I don't have lots of time to work.
@@ -30,7 +30,7 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 - If I get my computer stolen
 - If I say yes to all incoming requests
 
-#### Example-2
+##### Example
 
 1. Start feeling better (non-depressed) again
 2. Feel depressed
@@ -42,6 +42,13 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 - If I be physically lazy & not do any type of workout
 - If I dwell on the thoughts of my ex
 - If I don't do anything that'll make me feel accomplised (cleaning house, reading a book, shopping ..)
+
+#### Practice-2
+
+Charlie munger collects folly behaviors and avoids them. In this video he explains it between [01:29 - 04:02](https://youtu.be/S15XpqbUFFA?t=89). 
+
+1. Identify a folly(foolish) behavior. There is a lot in this subreddit https://www.reddit.com/r/Veryfuckingstupid/
+2. Write down ways you can make sure you can avoid that behavior.
 
 #### Extra
 
