@@ -10,7 +10,7 @@ prerequisites:
 
 Thinking how we can achieve our goal is forward thinking. Thinking ways we can't achieve our goal is backward thinking. Inversion is backward thinking. By inverting our thoughts we can break free from things that prevent us from achieving our goals. 
 
-#### Practice-2
+#### Practice-1
 
 1. Define something you want.
 2. Define the opposite of the thing you want.
@@ -36,10 +36,10 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 2. Feel depressed
 3. How can I continue feeling depressed
 4. 
-- If I jerk off all day
+- If I watch porn all day
 - If I play games all day
 - If I scroll mindlessly
-- If I be physically lazy & not do any type of workout
+- If I be physically lazy & not do any workout
 - If I dwell on the thoughts of my ex
 - If I don't do anything that'll make me feel accomplised (cleaning house, reading a book, shopping ..)
 
@@ -47,8 +47,17 @@ Thinking how we can achieve our goal is forward thinking. Thinking ways we can't
 
 Charlie munger collects folly behaviors and avoids them. In this video he explains it between [01:29 - 04:02](https://youtu.be/S15XpqbUFFA?t=89). 
 
-1. Identify a folly(foolish) behavior. There is a lot in this subreddit https://www.reddit.com/r/Veryfuckingstupid/
+1. Identify a folly(foolish) behavior. There is a lot in [r/iamatotalpieceofshit](https://www.reddit.com/r/iamatotalpieceofshit/) & [r/Veryfuckingstupid/](https://www.reddit.com/r/Veryfuckingstupid/) 
 2. Write down ways you can make sure you can avoid that behavior.
+
+##### Example 
+
+1. Drunk college students steal a CAT and go for a joy ride https://www.reddit.com/r/iamatotalpieceofshit/comments/j50uee/drunk_college_students_steal_a_cat_and_go_for_a/
+2. The ways I can avoid such a behavior are;
+- Not drinking too much
+- Not hanging out with people who drink too much
+- Being respectful for other peoples properties
+- Thinking of the second order effect of my behaviors
 
 #### Extra
 
