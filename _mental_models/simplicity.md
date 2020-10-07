@@ -10,9 +10,9 @@ prerequisites:
 
 ["Everything should be made as simple as possible but not simpler" - Unknown](https://www.youtube.com/watch?v=4ibabROYccs&feature=youtu.be&t=1149)
 
-The quote explains it pretty well. If something can be done in a simpler way without removing any attribute it should be simplified. In game development this is regarded as depth/complexity. A game is better if the complexity is decreased while keeping the depth same. An article is better if there are less words while the meaning is the same. A function is better if it does one simple thing. An ad is better if it is easily understandable. 
+The quote explains it pretty well. If something can be done in a simpler way without removing any attribute it should be simplified. In game development this is regarded as depth/complexity. A game is better if the complexity is decreased while keeping the depth same. An article is better if there are less words while the meaning is the same. A function is better if it does one simple thing. An idea is better if it is easily understandable.
 
-There are a few ways to make something simpler. 
+There are a few ways to make something simple. 
 
 - Remove parts of it;
 
@@ -42,6 +42,4 @@ Ask yourself
 4. Can I postpone this until I find a simpler way of doing it?
 5. Can I do something else instead of this?
 
-#### Resources
-
-- [James Clear Tweet](https://twitter.com/JamesClear/status/1301500683833823233)
+<!-- #### Resources -->
