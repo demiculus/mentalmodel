@@ -46,6 +46,8 @@ published: true
 
 - [Charlie Munger Lindy Effect Book Recommendations](https://theantilibrary.com/#munger) 
 
+- [Traverse.link](https://traverse.link/mental-models/Mental%20Models%20for%20Decision%20Making)
+
 <a href="https://imgur.com/ICqWiG6"><img src="https://i.imgur.com/ICqWiG6.png" alt="drawing" width="500"/></a>
 
 ### Donation
