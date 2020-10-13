@@ -14,15 +14,9 @@ Imagine your mind as an operating system. Ever since you've come to this world y
 Each mental model is built on top of other Mental-Models. 
 A good example for this is in order to learn Basic Arithmethics you first need to learn Numbers. [Learn more about prerequisites](https://mmpractices.com/mental_models/prerequisites/).
 
-### Learning
+### Practicing
 
-Check out [Learning Page](/learning)
-
-### Ways To Practice
-
-Create a document for each mental model you're practicing on your notepad or a piece of paper.
-Practice the mental-model for 30 days.
-I use [evernote](https://www.evernote.com/referral/Registration.action?sig=3bccbbd47549eb2344f32d1197bde8a9494256e8d55cd55f23e4bd8ce31add07&uid=89210166) and keep it like [this](http://prntscr.com/o88fhu), here is an [example page](http://prntscr.com/o88fyl).
+Check out [Practicing Page](/practicing) to learn how you should practice.
 
 ### Keep In Touch 
 
