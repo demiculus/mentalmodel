@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practicing
+title: Practice
 permalink: /practice/
 published: true
 ---
@@ -10,9 +10,7 @@ published: true
 Each mental model is a skill. Like any other skill with practice you will be better and without practice it will decline slowly. 
 
 
-> The way to get that competency is to adopt the necessary elements and practice using it over a considerable period of time on a considerable area of complexity.
-
-[Charlie Munger](https://youtu.be/4ibabROYccs?t=1804)
+"The way to get that competency is to adopt the necessary elements and practice using it over a considerable period of time on a considerable area of complexity." - [Charlie Munger](https://youtu.be/4ibabROYccs?t=1804)
 
 
 Best way to approach practicing mental models is the same way on we approach going to the gym. You should be hitting the mental gym at least 3-4 times per week. You should have a workout schedule for each type of exercise you do. And you should rest between gym sessions.
