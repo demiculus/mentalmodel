@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practicing
-permalink: /practicing/
+permalink: /practice/
 published: true
 ---
 

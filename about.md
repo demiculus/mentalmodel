@@ -16,7 +16,7 @@ A good example for this is in order to learn Basic Arithmethics you first need t
 
 ### Practicing
 
-Check out [Practicing Page](/practicing) to learn how you should practice.
+Check out [Practice](/practice) to learn how you should practice.
 
 ### Keep In Touch 
 
