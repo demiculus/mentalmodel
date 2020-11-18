@@ -59,6 +59,24 @@ Charlie munger collects folly behaviors and avoids them. In this video he explai
 - Being respectful for other peoples properties
 - Thinking of the second order effect of my behaviors
 
+#### Practice-3
+
+We are prone to thinking that life is improved by addition. A new house will make our life better. A new friend will add excitement. A new car will make me happier. Instead of addition, try subtraction. Remove a negative relationship from your life. Cancel one subscription. Drop a mindset thats holding you back.
+
+1. What is something you want?
+2. Why do you want this?
+3. Write down things that you can subtract from your life which gets you closer to that thing?
+
+
+##### Example
+
+1. I want $10.000/mo idle income.
+2. Because I will have time to do whatever I want.
+3. 
+  - I can stop my addiction to social media to have more time
+  - I can say no to people I don't want to hangout with to have more time
+  - I can stop watching porn
+
 #### Extra
 
 
