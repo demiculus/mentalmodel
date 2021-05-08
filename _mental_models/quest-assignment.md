@@ -28,7 +28,7 @@ Our whole life is structured in front of us and we won't fail as long as we foll
 
 #### Practice 1: 
 
-Play sandbox games. Some notable examples Minecraft, Grand Theft Auto, Garry's Mod, Roblox, Kerbal Space Program, The Sims, [Dawn of Crafting](https://dawnofcrafting.com).
+Play sandbox games. Some notable examples are Minecraft, Grand Theft Auto, Garry's Mod, Roblox, Kerbal Space Program, The Sims, [Dawn of Crafting](https://dawnofcrafting.com).
 
 #### Practice 2: 
 

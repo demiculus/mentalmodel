@@ -3,7 +3,7 @@ layout: mental-model
 name: One Thing
 benefit: Identify high return actions
 summary: 20% of the input gives 80% of the output
-prerequisites: Probability, Pareto Principle
+prerequisites: Probability, Pareto Principle, Second Order Effect
 ---
 
 #### Description
