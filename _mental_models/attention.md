@@ -14,20 +14,20 @@ Even by being aware of our attention we subconciously start changing it.
 #### Practice
 
 1. Write down 5 to 10 concepts that you thought in the past hour.
-2. Rank them from most useful to least.
+2. Rank them exponentially using negative numbers as well from most useful to least.
 
 #### Example
 
 Concepts; Being hydrated, my weight, housemates pretty friends, iq of people, mental-models, code, girl I like,
 Now I would rank them from most useful to least as.
 
-1. Being hydrated
-2. Mental-models
-3. My weight
-4. Code
-5. Iq of people
-6. Girl I like
-7. Housemates pretty friends
+10000x Being hydrated
+1000x Mental-models
+100x My weight
+10x Code
+0 Iq of people
+-10x Girl I like
+-100x Housemates pretty friends
 
 This shows what I should accept more in my life and what I should avoid more. Ofcourse I use other mental models to order these and using different mental tools will help me order them in different ways. 
 
