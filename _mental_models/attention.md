@@ -21,13 +21,13 @@ Even by being aware of our attention we subconciously start changing it.
 Concepts; Being hydrated, my weight, housemates pretty friends, iq of people, mental-models, code, girl I like,
 Now I would rank them from most useful to least as.
 
-10000x Being hydrated
-1000x Mental-models
-100x My weight
-10x Code
-0 Iq of people
--10x Girl I like
--100x Housemates pretty friends
+- 10000x Being hydrated
+- 1000x Mental-models
+- 100x My weight
+- 10x Code
+- 0 Iq of people
+- -10x Girl I like
+- -100x Housemates pretty friends
 
 This shows what I should accept more in my life and what I should avoid more. Ofcourse I use other mental models to order these and using different mental tools will help me order them in different ways. 
 
