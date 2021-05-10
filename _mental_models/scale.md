@@ -8,7 +8,7 @@ prerequisites: Statistics
 
 #### Description
 
-Every system has certain rules and principles. We tend to think that whatever rule there is will continue being correct for all scales but that is not the case. The most notable example comes from physics. [https://i.pinimg.com/originals/cb/36/fd/cb36fdd89caeb75faf21ceef83694cc6.jpg](Classical physicsl vs Quantum physics). Anyone familiar with it will know that the rules of the game is completely different for both of them. 
+Every system has certain rules and principles. We tend to think that whatever rule there is will continue being correct for all scales but that is not the case. The most notable example comes from physics. [Classical physicsl vs Quantum physics](https://i.pinimg.com/originals/cb/36/fd/cb36fdd89caeb75faf21ceef83694cc6.jpg). Anyone familiar with it will know that the rules of the game is completely different for both of them. 
 
 Another example comes from biology. The cells in our body live by different rules than us humans. And us humans live by different rules than human societies (companies, countries, humanity). As the scale changes the rules change. A notable example of this is individual humans trying to tackle global warming. This is like a cell in my body trying to fix my relationship problems. Each scale can only solve its own problems. Cells can solve organ problems, organs can solve human problems, humans can solve society problems and societies can solve global problems. So someone who knows this mental model, will not try to fix the earth but instead work on upgrading its company or country as in education, economy, etc. whatever that entity needs. 
 
