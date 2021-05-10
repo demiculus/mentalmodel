@@ -30,5 +30,6 @@ Another example of method comes from startups. Initially the founder can write c
 2. Letters, Words, Books, Libraries. A lot of letters creates words. A lot of words create books, a lot of books create libraries.
 3. The way that all 4 of these come into being, survive, and die are totally different. Words are only able to live as long as the concept that they are tied to lives. Their livelihood is determined by the concepts livelihood. Books on the other hand need a publisher, need marketing, need designs & iterations. A Library on the other hand comes into being depending on the surrounding human population, the habits of the population, the economy of it and so on. 
 
+
 <!-- #### Extra -->
 
