@@ -37,4 +37,5 @@ Think of a couple things you are mostly sure of. Now write down that you are not
 #### Extra
 
 [Farnam Street Blog](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/)
+[All Knowledge Is Conjectural](https://www.youtube.com/watch?v=auyg7kfxHdU)
 
