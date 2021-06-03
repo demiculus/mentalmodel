@@ -1,6 +1,6 @@
 ---
 layout: mental-model
-name: Value Create Capture
+name: Value Creation
 benefit: Increase wealth
 summary: Certain % of the value created can be captured
 prerequisites: 
