@@ -1,6 +1,6 @@
 ---
 layout: mental-model
-name: Identifying Dopamine
+name: Dopamine Identification
 benefit: Decreases procrastination
 summary: Seeking dopamine increases our likely hood of being unproductive
 prerequisites:
