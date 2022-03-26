@@ -1,8 +1,8 @@
 ---
 layout: mental-model
 name: Align Expectation
-benefit: Clarift
-summary: 
+benefit: Clarification
+summary: Clarifies the decision
 prerequisites: 
 ---
 
