@@ -10,10 +10,11 @@ prerequisites:
 
 Problems tend to arise when we don't clearly align the expectations of others. Such problems can be avoided if we are able to foresee situations going bad and tell the other person what to expect. Usually wrong assumptions take place in the communication error. This can go both ways, we can align someone else's expectations as well as someone else can align our expectations. It is our job to make sure our expectations are aligned as well as others. It is foolish to think everyone will do a good job at this so it is our responsibility to take control.
 
-#### Practice: 
+#### Practice:
 
 - Think of something you've told someone. Is there something that you left out? Is there something that they don't know that might make it clearer for them?
 - Think of something you're doing with someone. Some parts of it is not clear. Ask them to align your expectations of that thing.
+- What is something you did today? What parties might be effected of the process, result? Let them know.
 
 #### Example-1 -> Aligning others expectation
 

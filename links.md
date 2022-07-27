@@ -32,6 +32,10 @@ published: true
 
 - [James Clear](https://jamesclear.com/mental-models)
 
+- [Less Wrong](https://www.lesswrong.com/)
+
+- [Geohot](https://geohot.github.io/blog/)
+
 ### Tools
 
 - [Five Whys Tool](https://5whystool.mmpractices.com)
