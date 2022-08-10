@@ -53,8 +53,8 @@ layout: default
     <thead>
       <tr>
         <th>Name</th>
-        <th class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="Each mental model benefits the user in someway">Benefit</th>
-        <th class="text-center">Summary</th>
+        <th class="" data-toggle="tooltip" data-placement="top" data-html="true" title="Each mental model benefits the user in someway">Benefit</th>
+        <th class="">Summary</th>
       </tr>
     </thead>
 
@@ -66,10 +66,10 @@ layout: default
             <span>{{ mental_model.name }}</span>
           </a>
         </td>
-        <td class="text-center align-middle">
+        <td class="align-middle">
             {{ mental_model.benefit }}
         </td>
-        <td class="text-center align-middle">{{ mental_model.summary }}</td>
+        <td class="align-middle">{{ mental_model.summary }}</td>
       </tr>
       {% endfor %}
     </tbody>
