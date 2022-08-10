@@ -62,7 +62,7 @@ layout: default
       {% for mental_model in mental_models %}
       <tr>
         <td data-order="{{ mental_model.name }}" class="align-middle">
-          <a href="{{ mental_model.url | prepend: site.baseurl }}" target="_blank">
+          <a href="{{ mental_model.url | prepend: site.baseurl }}">
             <span>{{ mental_model.name }}</span>
           </a>
         </td>

@@ -25,7 +25,7 @@
   {% endif %}
       <h1>
         {% if post.link != nil %}
-        <a href="{{ post.link }}" title="{{ post.title }}" title="{{ post.title }}" target="_blank">{{ post.title }}</a> &rarr;
+        <a href="{{ post.link }}" title="{{ post.title }}" title="{{ post.title }}">{{ post.title }}</a> &rarr;
         {% else %}
           <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a>
         {% endif %}
