@@ -20,6 +20,7 @@ So being able to say "no" to certain things can help to maintain your mental hea
 1. Make sure you are relaxed and are not distracted by strong emotions. 
 2. Find 1 experience from previous experiences where you said "yes" to an external request.
 3. Write down 3 cases of what could have been if you said "no".
+4. Pick the best one and phrase it in a positive/nice way.
 
 #### Practice 2 - Simulation
 
