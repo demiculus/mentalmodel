@@ -1,20 +1,17 @@
 ---
 layout: mental-model
 name: Principle of Charity
-benefit: 
-summary: Assume the best interpretation of people’s arguments
+benefit: Better Judgement
+summary: Assume the best interpretation of people’s arguments to increase their accuracy
 prerequisites: 
 ---
 
 #### Description
 
 
-The principle of charity is about assuming the best in what someone says. We often think someones argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic.
+The principle of charity is about assuming the best in what someone says. We often think someones argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic. This will increase the accuracy of the argument and we'll be able to move forward to a more correct outcome.
 
-#### Practices
-
-
-##### Practice 1
+#### Practice
 
 1. Write the argument
 2. Write down uncharitable way of approaching
@@ -39,7 +36,7 @@ The principle of charity is about assuming the best in what someone says. We oft
 2. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, It’s unsafe for all gay academics to be out in their work environment.
 3. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, probably It’s unsafe for most gay academics to be out in their work environment.
 
-### Example 4 - Overly Charitable
+#### Example 4 - Overly Charitable
 
 1. John was supposed to submit his project by Friday, but he missed the deadline. Therefore, he is unreliable and cannot be trusted with important tasks.
 2. John missed the deadline, which means he cannot be trusted to complete important tasks. He probably doesn't care about his responsibilities and is not reliable.
