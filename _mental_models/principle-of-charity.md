@@ -11,6 +11,8 @@ prerequisites:
 
 The principle of charity is about assuming the best in what someone says. We often think someones argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic. This will increase the accuracy of the argument and we'll be able to move forward to a more correct outcome.
 
+When you apply the principle of charity, you're looking for what's right rather than what's wrong.
+
 #### Practice
 
 1. Write the argument
