@@ -22,6 +22,7 @@ By doing this practice your mind will be able to come up with more possibilities
 #### Examples
 
 Problem: Bf/gf is annoying
+
 Solutions: 
 - Leave and put phone to airplane mode
 - Call bf/gf parent and tell them their child is annoying and watch the parent scold the child
@@ -34,6 +35,7 @@ Solutions:
 - Scream as loud as you can, resetting your SO
 
 Problem: Someone from a call center calls you.
+
 Solutions:
 - As soon as you realize close the phone
 - Listen to her fully
@@ -49,6 +51,7 @@ Solutions:
 - Speak to her in another language
 
 Problem: You're thirsty but don't feel like getting up
+
 Solutions:
 - Force yourself to get up
 - Get up when the situation is dire
