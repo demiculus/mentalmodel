@@ -1,6 +1,6 @@
 
 ---
-layout:  mental-model
+layout: mental-model
 name: Second-Order Thinking
 benefit: Better decision-making
 summary: Think beyond the immediate impact of a choice and considering the longer-term, indirect effects.
