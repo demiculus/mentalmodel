@@ -23,12 +23,9 @@ Let's say you are considering taking out a loan to start a new business. The imm
 
 The second-order consequences of taking out the loan may include things like:
 
--The risk of being unable to repay the loan and damaging your credit score.
-
--The stress and anxiety of managing debt and financial obligations.
-
--The potential impact on your personal relationships and lifestyle due to the demands of running a business.
-
--The possibility that the business may fail, resulting in financial loss and other negative consequences.
+- The risk of being unable to repay the loan and damaging your credit score.
+- The stress and anxiety of managing debt and financial obligations.
+- The potential impact on your personal relationships and lifestyle due to the demands of running a business.
+- The possibility that the business may fail, resulting in financial loss and other negative consequences.
 
 By considering these second-order consequences, you may decide to take a more cautious approach to starting your business, such as seeking alternative funding sources or delaying your plans until you have more financial stability. This type of second-order thinking can help you make more informed and thoughtful decisions in many areas of your life.
