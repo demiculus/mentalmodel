@@ -95,7 +95,7 @@ If the manager doesn't understand what is wrong. He will dig deeper understandin
 
 Your goal is understanding how things work. 
 
-#### Practice
+## Practice
 
 1. Select one thing you're working on
 2. Book 60 minutes in your calendar
