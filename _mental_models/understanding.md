@@ -24,6 +24,8 @@ When there is a problem we can take 2 approaches:
 
 ##### 2. Focus on understanding how it works.
 
+
+
 ## Examples:
 
 ### Software Development
