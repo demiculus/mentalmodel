@@ -8,26 +8,26 @@ prerequisites:
 
 ## Description
 
-Majority of the time we overcome a problem we don't fully understand why. Because of that, in the future when a similar problem happens again it isn't easier to solve it. 
+Most of the time, when we successfully overcome a problem, we often lack a complete understanding of why it was resolved. As a result, when a similar problem arises in the future, it becomes difficult to solve it easily.
 
-For the times we fully understand the root cause of the problem, the next time we see it, it becomes a piece of cake to solve it. For this reason we should seek understanding rather than satisfying problems. 
+However, in cases where we fully comprehend the underlying cause of the problem, encountering it again becomes effortless to resolve. Therefore, it is advisable to prioritize gaining understanding rather than merely finding quick solutions to problems.
 
 ## Examples:
 
 ### Software Development
 
-When there is a problem we can take 2 approaches
+When there is a problem we can take 2 approaches: 
 
-#### Focus on fixing it by trying out stuff, eventually one of the solutions work so we can move on. 
+#### 1. Focus on fixing it by trying out stuff, eventually one of the solutions work so we can move on. 
 
 <img src="https://pbs.twimg.com/media/DMes69xXkAA4-7z.jpg"
      alt="Markdown Monster icon"
-     style="width: 49%" />
+     style="width: 25%" />
 <img src="https://i.redd.it/4r9efz3e9sez.jpg"
      alt="Markdown Monster icon"
-     style="width: 49%" />
+     style="width: 25%" />
 
-#### Focus on understanding how it works.
+#### 2. Focus on understanding how it works.
 
 Here is an example of how my co-worker solves this issue.
 
