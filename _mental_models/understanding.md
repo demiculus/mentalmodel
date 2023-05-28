@@ -6,7 +6,7 @@ summary: Increasing understanding makes us able to control it
 prerequisites:
 ---
 
-## Description
+#### Description
 
 Most of the time, when we successfully overcome a problem, we often lack a complete understanding of why it was resolved. As a result, when a similar problem arises in the future, it becomes difficult to solve it easily.
 
