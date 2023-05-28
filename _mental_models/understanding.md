@@ -28,7 +28,7 @@ When there is a problem we can take 2 approaches:
 
 #### Examples:
 
-### Software Development
+##### Software Development
 
 Here is an example of how my co-worker implemented this model to their work.
 
@@ -47,7 +47,7 @@ The developer who understands why it works will
 - create better solutions
 unlike the developers in the memes :) 
 
-### UX Design
+##### UX Design
 
 Same as developer, 2 approaches.
 
@@ -57,7 +57,7 @@ Same as developer, 2 approaches.
 
 Here the designer spent time understanding what needs to be done and why. In the future the designer won't be needing feedback from the PM.
 
-### Management
+##### Management
 
 Lets say a team member messed up somewhere.
 
@@ -90,7 +90,7 @@ Lets say a team member messed up somewhere.
 
 If the manager doesn't understand what is wrong. He will dig deeper understanding how the employee works. What temperature he is working at, what devices he uses, what environment, what hours, is he getting enough sleep, is he rushing things, is he organized, is he taking notes etc. until the manager knows what makes this person be this person. 
 
-### Relationship
+##### Relationship
 
 1. Your significant other (SO) has been frowning for the past week. You decide to take them out to dinner, and they become happy. Afterwards, you go home and sleep.
 2. You ask your SO why they have been frowning. Would they also be frowning of X reason? What about Y reason? What if X & Y together? Would doing Z solve it or postpone it? Do they need it solved right now or is it okay if it's later? How much later is fine? Anything else you can do to support them? Should you drop your plans? How confident are they to believe this method would work? What if this method doesn't work? What is the backup plan? Ideally, you are asking these questions during the dinner. 
