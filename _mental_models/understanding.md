@@ -11,14 +11,9 @@ prerequisites:
 Most of the time, when we successfully overcome a problem, we often lack a complete understanding of why it was resolved. As a result, when a similar problem arises in the future, it becomes difficult to solve it easily.
 
 However, in cases where we fully comprehend the underlying cause of the problem, encountering it again becomes effortless to resolve. Therefore, it is advisable to prioritize gaining understanding rather than merely finding quick solutions to problems.
-
-## Examples:
-
-### Software Development
-
 When there is a problem we can take 2 approaches: 
 
-#### 1. Focus on fixing it by trying out stuff, eventually one of the solutions work so we can move on. 
+##### 1. Focus on fixing it by trying out stuff, eventually one of the solutions work so we can move on. 
 
 <img src="https://pbs.twimg.com/media/DMes69xXkAA4-7z.jpg"
      alt="Markdown Monster icon"
@@ -27,7 +22,11 @@ When there is a problem we can take 2 approaches:
      alt="Markdown Monster icon"
      style="width: 25%" />
 
-#### 2. Focus on understanding how it works.
+##### 2. Focus on understanding how it works.
+
+## Examples:
+
+### Software Development
 
 Here is an example of how my co-worker solves this issue.
 
