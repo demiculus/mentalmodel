@@ -30,21 +30,22 @@ When there is a problem we can take 2 approaches:
 
 ### Software Development
 
-Here is an example of how my co-worker solves this issue.
+Here is an example of how my co-worker implemented this model to their work.
 
 > I was trying to solve the user taking action bug. Then I got curious and wrote queries on how many users were running into this bug. I saw that it was only 5% but another 10% were not taking action for a different reason. Then I dived into why that was and turns out we have this logic. I looked at the submission that created the logic and it was based on an assumption. Then I asked 5 players their thoughts and turns out none of them want this feature. Then I ran this poll in the community to verify it. I solved the initial bug, I created design tasks for the second bug and I saved the queries so it'll be easy for us to run them in the future.
 
 Here the developer has acquired a good understanding of user behavior, how the company runs, its history and created systems making it easier for future developers.
 
-Another time he said something like this:
+Another time they said something like this:
 
-> I was trying to solve the rendering problem. But I didn't know how rendering worked so I spent 20 minutes learning about it. Then I realized I didn't understand how our library rendered so I spent 20 minutes on that. Then I got curious how we are using the library and spent 20 minutes understanding that. I realized we can change 1 line of code to solve our rendering problem. On top of that our rendering process is not optimized so I created this submission refactoring our rendering engine which cleans up our codebase. I created 2 other tasks which are lower impact but will optimize rendering further when we need to.
+>I was trying to solve the rendering problem, but I didn't know how rendering worked. So, I spent 20 minutes learning about it. Then, I realized I didn't understand how our library rendered, so I dedicated another 20 minutes to understanding it. After that, I became curious about how we were using the library, so I spent 20 minutes gaining clarity on that aspect. It dawned on me that we could solve our rendering problem by changing just one line of code. Additionally, I noticed that our rendering process was not optimized, so I submitted a task to refactor our rendering engine, which would clean up our codebase. I also created two other tasks, which are of lower impact, but will further optimize rendering when necessary.
 
 Here the developer not only solved the problem but became an expert in it. So any future rendering problems he will be able to handle it easily. 
 
-Read the memes again. The developer who understands why it works will 
+The developer who understands why it works will 
 - spend less time solving the same bugs
 - create better solutions
+unlike the developers in the memes :) 
 
 ### UX Design
 
@@ -63,7 +64,7 @@ Lets say a team member messed up somewhere.
 1. The manager gives feedbacks, asks it to be fixed and moved on.
 2. The manager asks the following 
 
-> I’m guessing you are aware we’re not super happy about your work. And I want to understand why that is. I think you’re smart and conscientious.
+> I think you’re smart and conscientious. Yet I’m guessing you are aware we’re not super happy about your work. And I want to understand why that is. 
 > 
 > So here are my assumptions
 > 
@@ -77,7 +78,7 @@ Lets say a team member messed up somewhere.
 > 
 > 3. You don't really want or enjoy this job. So you don't optimize every aspect of your submission
 > 
-> This would also make sense. I would still advise to do perfect.
+> This would also make sense. I would still advise you to perfect your submissions.
 > 
 > 4. You haven’t seen a good submission, a good level of work so your best is what you’re currently doing
 > 
@@ -91,12 +92,12 @@ If the manager doesn't understand what is wrong. He will dig deeper understandin
 
 ### Relationship
 
-1. Your SO(significant other) is frowning for the past week, you take them out on a dinner they become happy, you go home and sleep.
-2. You ask your SO why they are frowning. How it works. Would they also be frowning of X reason? What about Y reason? What if X & Y together? Would doing a solve it or postpone it? Do they need it solved right now or is it okay if its later? How much later is fine? Anything else you can do to support them? Should you drop your plans? How confident are they to believe this method would work? What if this method doesn't work? What is the backup plan?
+1. Your significant other (SO) has been frowning for the past week. You decide to take them out to dinner, and they become happy. Afterwards, you go home and sleep.
+2. You ask your SO why they have been frowning. Would they also be frowning of X reason? What about Y reason? What if X & Y together? Would doing Z solve it or postpone it? Do they need it solved right now or is it okay if it's later? How much later is fine? Anything else you can do to support them? Should you drop your plans? How confident are they to believe this method would work? What if this method doesn't work? What is the backup plan? Ideally, you are asking these questions during the dinner. 
 
-Your goal is understanding how things work. 
+Your goal is to understand how things work. 
 
-## Practice
+#### Practice
 
 1. Select one thing you're working on
 2. Book 60 minutes in your calendar
