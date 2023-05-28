@@ -2,7 +2,7 @@
 layout: mental-model
 name: Understanding
 benefit: Take correct actions
-summary: Increasing understanding makes us able to control it
+summary: Understanding enables us to find sustainable solutions
 prerequisites:
 ---
 
