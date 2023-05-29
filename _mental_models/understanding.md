@@ -96,7 +96,7 @@ Your significant other (SO) has been frowning for the past week.
 
 1. You decide to take them out to dinner, and they become happy. Problem solved, so you go home and sleep.
 2. You ask your SO why they are frowning? What feelings are they experiencing? Would they like to talk about it or have some space? Is it related to you or something they experienced at work, with another friend, etc.? How can you support them? 
-By asking these questions you can understand the reason behind the frowning of your SO, their needs, and how you can help them. 
+By asking these questions, you can understand the reason behind the frowning of your SO, their needs, and how you can help them. 
 
 Your goal is to understand how things work. 
 
