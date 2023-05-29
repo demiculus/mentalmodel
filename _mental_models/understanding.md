@@ -95,7 +95,8 @@ If the manager doesn't understand what is wrong. He will dig deeper understandin
 Your significant other (SO) has been frowning for the past week.
 
 1. You decide to take them out to dinner, and they become happy. Problem solved, so you go home and sleep.
-2. You ask your SO why they have been frowning. Would they also be frowning of X reason? What about Y reason? What if X & Y together? Would doing Z solve it or postpone it? Do they need it solved right now or is it okay if it's later? How much later is fine? Anything else you can do to support them? Should you drop your plans? How confident are they to believe this method would work? What if this method doesn't work? What is the backup plan? Ideally, you are asking these questions during the dinner. 
+2. You ask your SO why they are frowning? What feelings are they experiencing? Would they like to talk about it or have some space? Is it related to you or something they experienced at work, with another friend, etc.? How can you support them? 
+By asking these questions you can understand the reason behind the frowning of your SO, their needs, and how you can help them. 
 
 Your goal is to understand how things work. 
 
