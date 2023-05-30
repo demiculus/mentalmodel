@@ -40,7 +40,7 @@ Another time they said something like this:
 
 >I was trying to solve the rendering problem, but I didn't know how rendering worked. So, I spent 20 minutes learning about it. Then, I realized I didn't understand how our library rendered, so I dedicated another 20 minutes to understanding it. After that, I became curious about how we were using the library, so I spent 20 minutes gaining clarity on that aspect. It dawned on me that we could solve our rendering problem by changing just one line of code. Additionally, I noticed that our rendering process was not optimized, so I submitted a task to refactor our rendering engine, which would clean up our codebase. I also created two other tasks, which are of lower impact, but will further optimize rendering when necessary.
 
-Here the developer not only solved the problem but became an expert in it. So any future rendering problems he will be able to handle it easily. 
+The developer understood the problem by breaking it down into its smaller components, which helped him solve it and become an expert in the process. As a result, he will be able to handle any future rendering problems with ease.
 
 The developer who understands why it works will 
 - spend less time solving the same bugs
