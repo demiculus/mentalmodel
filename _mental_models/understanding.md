@@ -45,7 +45,7 @@ The developer understood the problem by breaking it down into its smaller compon
 The developer who understands why it works will 
 - spend less time solving the same bugs
 - create better solutions
-unlike the developers in the memes :) 
+>unlike the developers in the memes :) 
 
 ##### UX Design
 
