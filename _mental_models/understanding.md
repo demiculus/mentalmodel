@@ -32,7 +32,7 @@ When there is a problem we can take 2 approaches:
 
 Here is an example of how my co-worker implemented this model to their work.
 
-> I was trying to solve the a bug where users ended up not taking action X. I got curious and wrote queries on how many users were running into this bug. I saw that 5% of people did not take action X. But I also discovered that another 10% also did not take action X. I dived into why that was the case ; and turns out it was due to a logic (programming concept) we impleneted. I looked at the submission that created the logic that was based on an assumption. Then I asked 5 players their thoughts and turns out none of them want this feature. Then I ran this poll in the community to verify it. I solved the initial bug, I created design tasks for the second bug and I saved the queries so it'll be easy for us to run them in the future.
+> I was trying to solve the a bug where users ended up not taking action X. I got curious and wrote queries on how many users were running into this bug. I saw that 5% of people did not take action X because of this bug. But I also discovered that another 10% also did not take action X. I dived into why that was the case ; and turns out it was due to a logic (programming concept) we impleneted. I looked at the submission that created the logic that was based on an assumption. Then I asked 5 players their thoughts about the result of this logic and turns out none of them want this feature. Then I ran this poll in the community to verify it. I solved the initial bug, I created design tasks for the second bug and I saved the queries so it'll be easy for us to run them in the future.
 
 Here the developer has acquired a good understanding of user behavior, instead of solving an unwanted bug they figured out if it was necessary for the users, then created systems making it easier for future developers.
 
@@ -62,33 +62,19 @@ Here the designer spent time understanding what needs to be done and why. In the
 Lets say a team member messed up somewhere.
 
 1. The manager gives feedbacks, asks it to be fixed and moved on.
-2. The manager asks the following 
+2. The manager asks questions to gain deeper understanding of the employee's situation.
 
-> I think you’re smart and conscientious. Yet I’m guessing you are aware we’re not super happy about your work. And I want to understand why that is. 
+> I think you’re smart and conscientious, however I noticed a drop in your performance and I want to understand why that is. 
 > 
-> So here are my assumptions
-> 
-> 1. You don’t fully grasp what we need.
-> 
-> There are so many projects going on. We need any extra time that we can get. When we give a task we expect it to be delivered fully on the first submission. We can't spend time giving feedbacks. We can’t train, we expect self training. Our time here is the bottleneck. We need people who will reduce the time we put into things.
-> 
-> 2. Your last job, your boss was okay with mid level submissions
-> 
-> I know its hard to change what you’re used to. But we’re aiming high. We’ve got a culture of perfectionism. We seek 5star work from everyone. 
-> 
-> 3. You don't really want or enjoy this job. So you don't optimize every aspect of your submission
-> 
-> This would also make sense. I would still advise you to perfect your submissions.
-> 
-> 4. You haven’t seen a good submission, a good level of work so your best is what you’re currently doing
-> 
-> Let me know if this is the case
-> 
-> 5. Something else?
-> 
-> Please let me know your thoughts on this.
+> 1. How are you feeling about your current workload and responsibilities?
+> 2. Are there any specific challenges or obstacles you're facing that are affecting your performance?
+> 3. Is there anything about the work environment that you find demotivating or hindering your productivity?
+> 4. Are you clear on the goals and expectations set for your role? If not, what areas need clarification? 
+> 5. Have there been any changes in your personal or professional life that could be impacting your work?
+> 6. Have you been receiving feedback or guidance on your performance? If so, what has been helpful, and what would you like to see more of?
+> 7. What resources or tools do you believe would assist you in improving your performance?
 
-If the manager doesn't understand what is wrong. He will dig deeper understanding how the employee works. What temperature he is working at, what devices he uses, what environment, what hours, is he getting enough sleep, is he rushing things, is he organized, is he taking notes etc. until the manager knows what makes this person be this person. 
+Active listening and providing a safe space for open and honest communication are essential during these discussions. It's crucial to avoid placing blame and instead focus on finding solutions and offering support to help the employee succeed. By asking more question the manager can delve deeper into understanding how the employee works. What temperature are they working at? What devices do they use? What is their work environment like? What are their working hours? Are they getting enough sleep? Are they rushing things? Are they organized? Do they take notes? These inquiries help the manager gain a better understanding of the employee's work habits and preferences, ultimately leading to a clearer understanding of the individual's work style." 
 
 ##### Relationship
 
