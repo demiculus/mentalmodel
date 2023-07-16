@@ -3,9 +3,10 @@ layout: mental-model
 name: Hourly Rate Principle
 benefit: Better time allocation
 summary: Use your hourly earnings to calculate time costs while deciding between two options
-author: @osolmaz
 prerequisites:
 ---
+
+<!-- author: @osolmaz -->
 
 #### Description
 
