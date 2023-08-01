@@ -54,4 +54,4 @@ What are ways I can do more telling?
 - Write blog posts on what I learned during my practices & share them on relevant sub reddits
 
 #### Extra
-
+- https://www.instagram.com/reel/Cu57UxQgKgV
