@@ -5,13 +5,10 @@ layout: default
 {% assign site_lang = 'en' %}
 {% assign mental_models = site.mental_models %}
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Random Text Display</title>
-</head>
-<body>
-  <p id="randomText"></p>
+
+
+<div class="container pb-5">
+    <p id="randomText"></p>
 
   <script>
     // Array of three random texts
@@ -27,5 +24,9 @@ layout: default
     // Display the random text on the page
     document.getElementById("randomText").innerText = randomText;
   </script>
-</body>
-</html>
+  
+    
+</div>
+
+
+  
