@@ -7,25 +7,22 @@ layout: default
 
 
 
-<div class="container pb-5">
+<div class="container py-4">
+    <h1>Get Unstuck</h1>
+    <p>Refresh page for another tip.</p>
+
+    <h3>Tip</h3>
     <p id="randomText"></p>
 
   <script>
-    // Array of three random texts
     var texts = [
-      "Text 1: This is the first random text.",
-      "Text 2: Here's the second random text.",
-      "Text 3: And this is the third random text."
+      "What would your closest friend do?",
+      "What is the simplest solution?",
     ];
 
-    // Get a random text from the array
     var randomText = texts[Math.floor(Math.random() * texts.length)];
-
-    // Display the random text on the page
     document.getElementById("randomText").innerText = randomText;
   </script>
-  
-    
 </div>
 
 
