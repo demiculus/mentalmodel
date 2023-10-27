@@ -1,29 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Random Text Display</title>
-</head>
-<body>
-  <p id="randomText"></p>
 
-  <script>
-    // Array of three random texts
-    var texts = [
-      "Text 1: This is the first random text.",
-      "Text 2: Here's the second random text.",
-      "Text 3: And this is the third random text."
-    ];
+---
+layout: page
+title: Unstuck
+permalink: /unstuck/
+published: true
+---
 
-    // Get a random text from the array
-    var randomText = texts[Math.floor(Math.random() * texts.length)];
-
-    // Display the random text on the page
-    document.getElementById("randomText").innerText = randomText;
-  </script>
-</body>
-</html>
-
-<!-- 
 # Get Unstuck
 
 Refresh page for another tip.
@@ -33,8 +15,11 @@ Refresh page for another tip.
 What would your closest friend do?
 What is the simplest solution?
 
-<p id="unstuckText"></p>
 
+
+{% raw %}
+
+<p id="unstuckText"></p>
 <script>
 // Array of three random texts
 var texts = [
@@ -48,4 +33,5 @@ var randomText = texts[Math.floor(Math.random() * texts.length)];
 
 // Display the random text on the page
 document.getElementById("unstuckText").innerText = randomText;
-</script> -->
+</script>
+{% endraw %}
