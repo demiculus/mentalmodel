@@ -35,7 +35,9 @@ Feel free to add your own mental models [here](https://github.com/demiculus/ment
 
 ### Having a Hard Time
 
-If you're having a hard time with a specific mental model you probably are missing a prerequisite. Either try to identify what it is, practice with a friend or work on another mental model.
+If you're having a hard time with a specific mental model you probably are missing a prerequisite. Either try to identify what it is, practice with a friend or work on another mental model. 
+
+You can also try getting unstuck by using [unstuck tool](/unstuck)
 
 <!-- ### Practice Days
 
