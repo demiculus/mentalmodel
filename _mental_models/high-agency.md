@@ -8,14 +8,12 @@ prerequisites: Uncertainty, Simulation
 
 #### Description
 
-High Agency is a sense that the story given to you by other people about what you can/cannot do is just that - a story. 
-And that you have control over the story. 
 High Agency person looks to bend reality to their will. 
 They either find a way, or they make a way.
-Low agency person acepts the story that is given to them.   
-They never question it. 
+Low agency person accepts the reality given to them.   
+They don't question it. 
 They are passive. 
-They outsource all of their decision making to other people.
+They outsource their decision making to other people.
 
 Person A is Low Agency wheres person B is High Agency
 

@@ -50,7 +50,7 @@ Charlie munger collects folly behaviors and avoids them. In this video he explai
 1. Identify a folly(foolish) behavior. There is a lot in [r/iamatotalpieceofshit](https://www.reddit.com/r/iamatotalpieceofshit/) & [r/Veryfuckingstupid/](https://www.reddit.com/r/Veryfuckingstupid/) 
 2. Write down ways you can make sure you can avoid that behavior.
 
-##### Example 
+##### Example
 
 1. Drunk college students steal a CAT and go for a joy ride https://www.reddit.com/r/iamatotalpieceofshit/comments/j50uee/drunk_college_students_steal_a_cat_and_go_for_a/
 2. The ways I can avoid such a behavior are;
@@ -80,7 +80,7 @@ We are prone to thinking that life is improved by addition. A new house will mak
 #### Extra
 
 
-- [Charlie Munger - Inversion](https://www.yapss.com/post/collection-charlie-munger-16-inversion-thinking-process)
+- [Charlie Munger - Inversion](https://www.instagram.com/reel/DC2uIYKNeH7/?igsh=MzRlODBiNWFlZA==)
 - [Charlie Munger - Commencement Address - USC - 16:15 - 17:30](https://youtu.be/5U0TE4oqj24?t=975) 
 - [Farnam Street - Inversion](https://fs.blog/2013/10/inversion/)
 - [
