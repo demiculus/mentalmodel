@@ -1,6 +1,6 @@
 ---
 layout: mental-model
-name: Artificial Deadlines
+name: Deadlines
 benefit: Better Decisions
 summary: Put an artificial deadline to make decisions
 prerequisites:

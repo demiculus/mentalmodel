@@ -1,7 +1,7 @@
 ---
 layout: mental-model
 name: Breakdown Goals
-benefit: Accelerate progress
+benefit: Increase progress
 summary: Just by going a little more we can make a lot of progress
 prerequisites:
 ---
