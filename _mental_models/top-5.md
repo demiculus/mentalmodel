@@ -48,4 +48,5 @@ When a person has all of these 5 items, they have achieved happiness 90%
 3. Use the [5 whys mental model](https://mmpractices.com/mental_models/5-whys/) to understand why your eating habits are the way they are. Use [prerequisite mental model](https://mmpractices.com/mental_models/prerequisites/) to figure out how you can start eating a healthy diet.
 
 
-
+##### Resources
+https://www.youtube.com/watch?v=lVglnpZTZUs&list=WL&index=3&t=2s&ab_channel=ProjectBetterSelf 
