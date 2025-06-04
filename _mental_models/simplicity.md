@@ -42,4 +42,9 @@ Ask yourself
 4. Can I postpone this until I find a simpler way of doing it?
 5. Can I do something else instead of this?
 
+#### Other
+
+"An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple; an idiot, anything the more complicated is, the more he will admire it. If you make something so clusterfucked he can't understand it, he's gonna think you're a god cause you made it so complicated nobody can understand it."
+– Terry A Davis  
+
 <!-- #### Resources -->
