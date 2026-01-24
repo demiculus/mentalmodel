@@ -31,7 +31,7 @@ Check out [Practice](/practice) to learn how you should practice.
 
 ### Contribution
 
-Feel free to add your own mental models [here](https://github.com/demiculus/mentalmodel/tree/master/_mental_models). Let [me know](mailto: demirbyilmaz@gmail.com) if you don't know how to use github.
+Feel free to add your own mental models [here](https://github.com/demiculus/mentalmodel/tree/master/_mental_models). Let [me know](mailto:demirbyilmaz@gmail.com) if you don't know how to use github.
 
 ### Having a Hard Time
 
