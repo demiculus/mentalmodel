@@ -1,43 +1,46 @@
 ---
 layout: mental-model
 name: What I want
-benefit: Clarify goal
+benefit: Clarify Goals
 summary: Aski 'What do I want?' daily.
 prerequisites:
 ---
 
 #### Description
 
-Our mind isn't linear, it has many moving parts and different incentives. Which is why it is usually not clear what we want. 
+Our mind isn't linear, there are many moving parts and different incentives. This is why it's usually not as clear as we want it to.
 
-For example, when it comes to work, a part of us might be wanting online work, while another part wanting close social interations. while another part wanting extended focus time, while another part wanting to manage people. 
+For example: When it comes to work, a part of us might want online work, yet, another part wants close social interactions. While another part wants extended focus time, the other wants to manage people.
 
-This is usually the case when it comes to any complicated system such as relationships, family, school, hobbies etc.
+This is usually the case for any complex system, such as relationships, family dynamics, school, or hobbies.
 
-This practice increases our skills in clarifying our need. 
+This practice increases our skills in clarifying our needs.
 
 #### Practice
 
-Get a practice journal, it can be an online notepad or something physical. Everyday for the next 30 days write down
+### 
+
+Get a practice journal: it can be an online notepad or a physical notebook. Write down the following everyday for the next 30 days
 
 1. Date
-2. 'What do I want?'
-3. Write the first thing that comes to your mind.
-4. 'Why'
-5. Write as many reasons as you want.
-6. If you decide to change your answer, you continue from step2.
+2. "What do I want?"
+- Write the first thing that comes to your mind.
+1. “Why?"
+- Write as many reasons as you can think of. 
+1. If you decide to change your answer, you can continue from Step 2.
 
 ##### Example
 
-Oct 2 2020
+October 2, 2020
 
 What do I want?
 
-Have a stable life.
+- To have a stable life
 
 Why?
 
-Because I have been moving around a lot lately and I am tired. I also want some certainty in my life.
+- Because I am tired from moving around lately. I want some certainty in my life.
+
 
 #### Resources
 
