@@ -8,7 +8,7 @@ prerequisites:
 
 #### Description
 
-By asking why multiple times we can have a deeper understanding on the causes of the higher level problem.
+By asking "why" multiple times, we can gain a deeper understanding of the root causes behind a high-level problem.
 
 The goal is to land on a what or a how.
 
@@ -16,10 +16,10 @@ https://en.wikipedia.org/wiki/5_Whys
 
 #### Practice
 
-1. Define something you have done/will do
-2. Ask why
-3. Answer why
-4. Repeat from #2
+1. Identify an action or a problem (something you have done or plan to do).
+2. Ask "why?"
+3. Provide an answer.
+4. Repeat steps 2 and 3 until you reach a root cause.
 
 #### Example-1
 
@@ -34,8 +34,8 @@ https://en.wikipedia.org/wiki/5_Whys
  - Why do I feel like I need to make up for it?
  - Because I've avoided her and acted bad towards her all my childhood.
 5. 
- - Why did I avoid her and acted bad towards her all my childhood? 
- - Because I wanted to explore my sexuality but she was always so controlling that I couldn't.
+ - Why did I avoid her and act poorly toward her throughout my childhood?
+ - Because I wanted to explore my sexuality, but she was so controlling that I felt I couldn't.
 
  A1. 
  
@@ -49,13 +49,13 @@ https://en.wikipedia.org/wiki/5_Whys
 
  A3. 
  
- - Why didn't she teach those stuff?
- - Because she was raised in a society that forbids such talk. 
+ - Why didn't she teach that subject?
+ - Because she was raised in a society that forbade such talk.
 
  B1. 
  
  - Why did I want to explore my sexuality?
- - Because I got a blast of hormons when I became a teenager.
+ - Because I experienced a surge of hormones as a teenager.
 
 #### Extra
 
