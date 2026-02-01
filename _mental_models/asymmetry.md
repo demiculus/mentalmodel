@@ -8,49 +8,48 @@ prerequisites: Statistics
 
 #### Description
 
-Asymmetrical Risks: Upside is very small and down side is huge
-Assymetrical Values: Down side is very small but the upside is huge
+Asymmetrical Risks: The upside is very small, but the downside is huge. 
+Asymmetrical Opportunities: The downside is very small, but the upside is huge.
 
-Being aware if an action is asymmetric helps us avoid crippling actions while makes it easier to seek oppourtunistic actions.
+Being aware of whether an action is asymmetric helps us avoid crippling outcomes while making it easier to seek opportunistic actions.
 
-Ex: 
-Texting while driving, 
-Benefit: is a funny cat picture
-Risk:is cripple for life.
+Example: 
+Texting while driving. 
+Benefit: Seeing a funny cat picture.
+Risk: Being crippled for life.
 
-Ex: 
-Unprotected sex: 
-Benefit: is fun for an hour
-Risk: HIV for the rest of your life
+Example: 
+Unprotected sex. 
+Benefit: Short-term pleasure. 
+Risk: Contracting HIV for the rest of your life.
 
-Ex:
-DM'ing people
-Benefit: you meet a life long lasting friend
-Risk: 1minute of your life lost
+Example:
+Messaging people.
+Benefit: Meeting a lifelong friend
+Risk: One minute of your life lost.
 
 #### Practice
 
-Method1: Think of an action you will do today, what is the positive & the negative asymmetric value?
+Method 1: Think of an action you will take today. What are its positive and negative asymmetric values?
 
-Method2: Think of a concept, what actions would provide with positive asymmetric value and what actions would provide negative.
+Method 2: Think of a concept. What actions would provide a positive asymmetric value, and what actions would provide a negative one?
 
 #### Example-1
 
-I will go to Ubud from Canggu. What are some actions that would provide me with asymmetry? 
+I am going to Ubud from Canggu. What are some actions that would provide me with asymmetry?
 
-- P: Posting on social media to share a ride with random people (might turn out to be a long time friend, business partner etc) 
-- P: If I look around while going, I can stop to check out interesting places on the road
-- N: Drive fast and crash car
-- N: If I'm not careful with my belongings they might be stolen
+- Positive: Posting on social media to share a ride with strangers (might turn out to be a long-term friend, business partner, etc.).
+- Positive: If I observe my surroundings while traveling, I can stop to check out interesting places along the road.
+- Negative: Driving fast and crashing the car.
+- Negative: If I'm not careful with my belongings, they might be stolen.
 
 #### Example-2
 
 I am working on Colonist.io (my game). What are some actions that might provide me with asymmetry? 
 
-
-- P: Streaming while working may provide followers, help and much more
-- P: Working at public places may provide extra contact with others
-- N: Streaming wrong things may get us in to trouble legally or decrease trust of our players
+- Positive: Streaming while working may provide followers, assistance, and much more.
+- Positive: Working in public places may provide extra networking opportunities.
+- Negative: Streaming sensitive information may result in legal trouble or decrease our players' trust.
 
 #### Extra
 
