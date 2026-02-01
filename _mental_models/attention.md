@@ -8,27 +8,27 @@ prerequisites:
 
 #### Description
 
-Whatever our mind is thinking of, it is strengthening that concept. The stronger a certain concept is the more we tend to become such a person. So it is crucial to understand where we have our attention. These practices don't go into the best methods of changing attention but rather being aware of them.
-Even by being aware of our attention we subconciously start changing it. 
+Whatever our mind dwells on, it strengthens that concept. The stronger a concept becomes, the more we tend to embody its characteristics. Therefore, it is crucial to understand where we direct our attention. These practices do not focus on methods for changing attention, but rather on becoming aware of where it currently lies.
+Even by simply being aware of our attention, we subconsciously start changing it.
 
 #### Practice
 
-1. Write down 5 to 10 concepts that you thought in the past hour.
-2. Rank them exponentially using negative numbers as well from most useful to least.
+1. Write down 5 to 10 concepts that you thought about in the past hour.
+2. Rank them exponentially, using both positive and negative numbers, from most useful to least useful.
 
 #### Example
 
-Concepts; Being hydrated, my weight, housemates pretty friends, iq of people, mental-models, code, girl I like,
-Now I would rank them from most useful to least as.
+Concepts: Being hydrated, my weight, housemate's pretty friends, IQ of people, mental models, code, girl I like.
+Now, I would rank them from most useful to least useful as follows:
 
 - 10000x Being hydrated
 - 1000x Mental-models
 - 100x My weight
 - 10x Code
-- 0 Iq of people
-- -10x Girl I like
-- -100x Housemates pretty friends
+- 0 IQ of people
+- 10x Girl I like
+- 100x Housemate's pretty friends
 
-This shows what I should accept more in my life and what I should avoid more. Ofcourse I use other mental models to order these and using different mental tools will help me order them in different ways. 
+This shows what I should invite more into my life and what I should avoid. Of course, I use other mental models to categorize these, and using different mental tools will help me prioritize them in different ways.
 
 <!-- #### Extra Reads -->
