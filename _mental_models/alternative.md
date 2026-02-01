@@ -1,65 +1,65 @@
 ---
 layout: mental-model
 name: Alternative
-benefit: Increases decision making
+benefit: Improves decision making
 summary: Helps finding a way forward
 prerequisites: 
 ---
 
 #### Description
 
-When facing a problem we often think limitedly. We think about the first few things we can do select one of them and move forward. This is good for a lot of decisions but a certain number of decisions benefit greatly by exploring a bit more. 
+When facing a problem, we often think too narrowly. We think about the first few options we can imagine, select one, and move forward. This approach works for many decisions, but some benefit greatly from exploring a bit more.
 
-By doing this practice your mind will be able to come up with more possibilities.
+By using this practice, your mind will be able to come up with a wider range of possibilities.
 
 
 #### Practice
 
-1. Think of a problem
-2. Think of all the solutions you can think of. Make sure to include obviously wrong solutions, which are still solutions.
-3. Once you've written down all solutions you can think of, write down 3 absurd solutions
+1. Think of a problem.
+2. List every solution you can imagine. Make sure to include obviously wrong solutions, as they are still solutions.
+3. Once you've written down every standard solution, write down three absurd solutions.
 
 #### Examples
 
-Problem: Bf/gf is annoying
+Problem: Partner is annoying
 
 Solutions: 
-- Leave and put phone to airplane mode
-- Call bf/gf parent and tell them their child is annoying and watch the parent scold the child
-- Tell your SO (significant other) you're there to listen. You're there to help.
+- Leave and put the phone on airplane mode
+- Call your partner's parents to tell them their child is annoying, then watch the parent scold the child
+- Tell your SO (significant other) you're there to listen and help.
 - Slap your SO
-- Ask you SO to meditate with you
-- Cry to your SO and blame them making yourself the victim
+- Ask your SO to meditate with you
+- Cry to your SO and blame them, making yourself the victim
 - Call your mom for help
 - Jump out the window
-- Scream as loud as you can, resetting your SO
+- Scream as loud as you can to "reset" your SO
 
 Problem: Someone from a call center calls you.
 
 Solutions:
-- As soon as you realize close the phone
-- Listen to her fully
-- Politely reject her without waiting for her to reply
-- Tell her you'll shove your foot up her ass if she doesn't get a new job
-- Ask details about her, get her personal number and text her there
-- Act like you're cutting off
-- Make chewbacca noises
-- Open a nice music and put the phone next to a speaker
-- Open Rick Roll and same thing
-- Give her your enemies number and ask her to call you there
-- Tell her to call you next day at 6pm, each time she calls you
-- Speak to her in another language
+- As soon as you realize who it is, hang up
+- Listen to them fully
+- Politely reject them without waiting for a reply
+- Tell them you'll shove your foot up their ass if they don't get a new job
+- Ask details about them, get their personal number, and text them there
+- Act like the call is cutting out
+- Make Chewbacca noises
+- Play music and put the phone next to a speaker
+- Play "Rick Roll" and do the same thing
+- Give them your enemy's number and ask them to call you there
+- Tell them to call you the next day at 6pm, every time they call
+- Speak to them in another language
 
 Problem: You're thirsty but don't feel like getting up
 
 Solutions:
 - Force yourself to get up
-- Get up when the situation is dire
-- Get up for something fun and while at it drink water
-- Ask someone to hangout, now you have to get up
-- Turn it into a game like crawling on the floor instead of walking
+- Get up when the situation becomes dire
+- Get up for something fun and, while you are at it, drink water
+- Ask someone to hang out; now you have to get up
+- Turn it into a game, like crawling on the floor instead of walking
 - Spit and lick your spit
 - Call someone in the house to bring you water
-- Order from a food delivery service and ask them to bring to your bed
-- Yell I want water until someone brings it
+- Order from a food delivery service and ask them to bring it to your bed
+- Yell, "I want water!" until someone brings it
 
