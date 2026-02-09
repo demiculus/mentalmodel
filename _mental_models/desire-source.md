@@ -24,15 +24,19 @@ Pursuing internal desires is generally more effective than external ones due to 
 
 #### Example 1
 
-Goal: Creating a Shopify startup in Singapore.
-Source: Seeing an "auntie" having a hard time selling her food via WhatsApp.
-Fade Factor: When I stop interacting with her, my desire to solve that specific problem goes away.
+**Goal**: Creating a Shopify startup in Singapore.
+
+**Source**: Seeing an "auntie" having a hard time selling her food via WhatsApp.
+
+**Fade Factor:** When I stop interacting with her, my desire to solve that specific problem goes away.
 
 #### Example 2
 
-Goal: Creating dance videos.
-Source: Watching my friends' dance videos on Instagram and TikTok.
-Fade Factor: When I unfollow those friends, my desire to create similar content goes away.
+**Goal**: Creating dance videos.
+
+**Source**: Watching my friends' dance videos on Instagram and TikTok.
+
+**Fade Factor:** When I unfollow those friends, my desire to create similar content goes away.
 
 #### Sources
 
