@@ -13,20 +13,26 @@ Asymmetrical Opportunities: The downside is very small, but the upside is huge.
 
 Being aware of whether an action is asymmetric helps us avoid crippling outcomes while making it easier to seek opportunistic actions.
 
-Example: 
+**Example**: 
 Texting while driving. 
-Benefit: Seeing a funny cat picture.
-Risk: Being crippled for life.
 
-Example: 
+_Benefit_: Seeing a funny cat picture.
+
+_Risk_: Being crippled for life.
+
+**Example**: 
 Unprotected sex. 
-Benefit: Short-term pleasure. 
-Risk: Contracting HIV for the rest of your life.
 
-Example:
+_Benefit_: Short-term pleasure.
+
+_Risk_: Contracting HIV for the rest of your life.
+
+**Example**:
 Messaging people.
-Benefit: Meeting a lifelong friend
-Risk: One minute of your life lost.
+
+_Benefit_: Meeting a lifelong friend
+
+_Risk_: One minute of your life lost.
 
 #### Practice
 
@@ -38,18 +44,18 @@ Method 2: Think of a concept. What actions would provide a positive asymmetric v
 
 I am going to Ubud from Canggu. What are some actions that would provide me with asymmetry?
 
-- Positive: Posting on social media to share a ride with strangers (might turn out to be a long-term friend, business partner, etc.).
-- Positive: If I observe my surroundings while traveling, I can stop to check out interesting places along the road.
-- Negative: Driving fast and crashing the car.
-- Negative: If I'm not careful with my belongings, they might be stolen.
+- _Positive_: Posting on social media to share a ride with strangers (might turn out to be a long-term friend, business partner, etc.).
+- _Positive_: If I observe my surroundings while traveling, I can stop to check out interesting places along the road.
+- _Negative_: Driving fast and crashing the car.
+- _Negative_: If I'm not careful with my belongings, they might be stolen.
 
 #### Example-2
 
 I am working on Colonist.io (my game). What are some actions that might provide me with asymmetry? 
 
-- Positive: Streaming while working may provide followers, assistance, and much more.
-- Positive: Working in public places may provide extra networking opportunities.
-- Negative: Streaming sensitive information may result in legal trouble or decrease our players' trust.
+- _Positive_: Streaming while working may provide followers, assistance, and much more.
+- _Positive_: Working in public places may provide extra networking opportunities.
+- _Negative_: Streaming sensitive information may result in legal trouble or decrease our players' trust.
 
 #### Extra
 
