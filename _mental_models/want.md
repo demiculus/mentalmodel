@@ -2,7 +2,7 @@
 layout: mental-model
 name: What I want
 benefit: Clarify Goals
-summary: Aski 'What do I want?' daily.
+summary: Ask 'What do I want?' daily.
 prerequisites:
 ---
 
@@ -24,23 +24,32 @@ Get a practice journal: it can be an online notepad or a physical notebook. Writ
 
 1. Date
 2. "What do I want?"
-- Write the first thing that comes to your mind.
-1. “Why?"
-- Write as many reasons as you can think of. 
-1. If you decide to change your answer, you can continue from Step 2.
+3. Write the first thing that comes to your mind.
+4. “Why?"
+5. Write as many reasons as you can think of. 
+6. If you decide to change your answer, you can continue from Step 2.
 
-##### Example
+##### Example-1
 
-October 2, 2020
+1. October 2, 2020
+2. What do I want?
+3. To have a stable life
+4. Why?
+5. Because I am tired from moving around lately. I want some certainty in my life.
 
-What do I want?
+##### Example-2
+1. October 3, 2020
+2. What do I want?
+3. To be financially stable
+4. Why?
+5. Because I want to be able to buy the things that I want without worrying about my future.
 
-- To have a stable life
-
-Why?
-
-- Because I am tired from moving around lately. I want some certainty in my life.
-
+##### Example-3
+1. October 4, 2020
+2. What do I want?
+3. To have a job that I enjoy doing
+4. Why?
+5. Because I am tired of working, but I need money so I want to be able to work and have fun with it at the same time.
 
 #### Resources
 
