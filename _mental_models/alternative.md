@@ -21,9 +21,9 @@ By using this practice, your mind will be able to come up with a wider range of 
 
 #### Examples
 
-Problem: Partner is annoying
+**Problem**: Partner is annoying
 
-Solutions: 
+**Solutions**: 
 - Leave and put the phone on airplane mode
 - Call your partner's parents to tell them their child is annoying, then watch the parent scold the child
 - Tell your SO (significant other) you're there to listen and help.
@@ -34,9 +34,9 @@ Solutions:
 - Jump out the window
 - Scream as loud as you can to "reset" your SO
 
-Problem: Someone from a call center calls you.
+**Problem**: Someone from a call center calls you.
 
-Solutions:
+**Solutions**:
 - As soon as you realize who it is, hang up
 - Listen to them fully
 - Politely reject them without waiting for a reply
@@ -50,9 +50,9 @@ Solutions:
 - Tell them to call you the next day at 6pm, every time they call
 - Speak to them in another language
 
-Problem: You're thirsty but don't feel like getting up
+**Problem**: You're thirsty but don't feel like getting up
 
-Solutions:
+**Solutions**:
 - Force yourself to get up
 - Get up when the situation becomes dire
 - Get up for something fun and, while you are at it, drink water
