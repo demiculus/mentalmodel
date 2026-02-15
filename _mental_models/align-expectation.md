@@ -1,6 +1,6 @@
 ---
 layout: mental-model
-name: Align Expectation
+name: Align Expectations
 benefit: Clarification
 summary: Clarifies the decision
 prerequisites: 
@@ -8,52 +8,52 @@ prerequisites:
 
 #### Description
 
-Problems tend to arise when we don't clearly align the expectations of others. Such problems can be avoided if we are able to foresee situations going bad and tell the other person what to expect. Usually wrong assumptions take place in the communication error. This can go both ways, we can align someone else's expectations as well as someone else can align our expectations. It is our job to make sure our expectations are aligned as well as others. It is foolish to think everyone will do a good job at this so it is our responsibility to take control.
+Problems tend to arise when we fail to clearly align expectations with others. Such problems can be avoided if we foresee potential issues and proactively tell the other person what to expect. Communication errors usually stem from incorrect assumptions. This process is reciprocal: we can align others' expectations, just as they can align ours. It is our responsibility to make sure both our expectations and those of others are aligned. It is unrealistic to think everyone will do a good job at this, so it is our responsibility to take control.
 
 #### Practice:
 
-- Think of something you've told someone. Is there something that you left out? Is there something that they don't know that might make it clearer for them?
-- Think of something you're doing with someone. Some parts of it is not clear. Ask them to align your expectations of that thing.
-- What is something you did today? What parties might be effected of the process, result? Let them know.
+- Think of something you’ve recently told someone. Is there any detail you left out? Is there information they lack that might make the situation clearer for them?
+- Think of a collaborative task. If any part is not clear, ask them to align your expectations. 
+- Which parties might be affected by the process or the result? Let them know.
 
-#### Example-1 -> Aligning others expectation
+#### Example-1 -> Aligning others' expectations
 
-Situation: While inviting guests over assuming they like the same food that we like has a % chance of creating conflict.
+Situation: When inviting guests over, assuming they like the same food as we do creates a high chance of conflict.
 
-Communication: Hey guys, I'm going to cook X, Y, Z let me know if you're not okay with it.
+Communication: Hey guys, I'm going to cook X, Y, and Z. Let me know if anyone has dietary restrictions or preferences.
 
-#### Example-2 -> Aligning others expectation
+#### Example-2 -> Aligning others' expectations
 
-Situation: Going to the spa with friend. One friend might think it's an opportunity to relax in peace without talking. The other might see it as a chat opportunity.
+Situation: Going to the spa with a friend. One friend might view it as an opportunity to relax in peace without talking.
 
-Communication: Btw I feel like just relaxing & meditating today so I will mostly sit alone and close my eyes in spa.
+Communication: By the way, I feel like just relaxing and meditating today, so I’ll mostly be quiet and close my eyes while we’re there.
 
-#### Example-3 -> Aligning others expectation
+#### Example-3 -> Aligning others' expectations
 
-Situation: New hire doesn't know when he will meet the rest of the team and how the onboarding process will go.
+Situation: A new hire doesn’t know when they will meet the rest of the team or how the onboarding process will unfold.
 
-Communication: Hey, over the next 2 weeks I will set up calls occasionally introducing you to different team members. The days aren't clear but probably Tuesday or Wednesday nights will work. Until then you can continue the work with me & Sam. You'll slowly start working with others after 1 month.
+Communication: Hey, over the next 2 weeks I will set up calls occasionally introducing you to different team members. The specific days aren't set yet, but Tuesday or Wednesday nights will likely work. Until then, you can continue the work with me & Sam. You'll slowly start working with others after 1 month.
 
-#### Example-4 -> Others aligning our expectation
+#### Example-4 -> Others aligning our expectations
 
-Situation: I'm waiting for someone to do a certain thing so I can make a decision. 
+Situation: I’m waiting for someone to complete a task so I can make a decision. 
 
-Communication: Hey, can you align my expectations on when you'll do this. Can you give me a range, best case & worst case eta.
+Communication: Hey, can you help align my expectations on when this will be finished? Can you give me a range—a best-case and worst-case ETA?
 
-#### Example-5 -> Others aligning our expectation
+#### Example-5 -> Others aligning our expectations
 
-Situation: I don't know how many people are coming so I don't know how much food I should prepare
+Situation: I don't know the headcount, so I'm unsure how much food to prepare.
 
-Communication: Hey, can you give me a pax estimate so I can prepare food accordingly?
+Communication: Hey, can you give me a guest count estimate so I can prepare food accordingly?
 
 
-#### Example-6 -> Others aligning our expectation
+#### Example-6 -> Others aligning our expectations
 
-Situation: Someone wants something completed. But I don't know its urgency so I'm not sure if I should prioritize it.
+Situation: Someone wants a task completed**, but since I don't know its urgency, I'm unsure how to prioritize it.
 
-Communication: Hey, can you tell me how urgent this is? I have these 3 tasks, A will take 5 hours, B will take 25, C will take 15. Would B>C>A work for you?
+Communication: Hey, can you tell me how urgent this is? I currently have these three tasks: A (5 hours), B (25 hours), and C (15 hours).
 
-As can be seen from this one, I'm also aligning the time expectation of each task while requesting prioritization.
+In this example, I am aligning time expectations for each task while simultaneously requesting prioritization.
 
 
 
