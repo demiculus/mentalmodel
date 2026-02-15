@@ -2,39 +2,45 @@
 layout: mental-model
 name: Intuitive Thinking
 benefit: Better decisions
-summary: Our subconcious has more data & computing power than our concious. Can give better results than the thinking mind.
+summary: Our subconscious has more data and computing power than our conscious mind. It can often produce better results than deliberate thinking.
 prerequisites: 
 ---
 
-#### Description
+### Description
 
-3 types of decision making
+There are three types of decision-making:
 - Logical
 - Emotional
 - Intuitive
 
-Intuition is what you feel about a certain action/event/place/person after all of your emotion & logic are separated.
-It gives a clear signal if that thing will be good/bad for you.
+**Intuition** is what you feel about a certain action, event, place, or person after separating emotion and logic. It gives a clear internal signal about whether something will be good or bad for you.
 
-#### Practice
+### Practice
 
-Length: 2 minutes (practice takes around 2 minutes)
+Length: 2 minutes (the practice takes around 2 minutes)
 
-1. Write an action/event/location you will interact with today.
-2. Close your eyes and imagine yourself doing that thing. 
-3. Write down how you feel when doing that thing. Start with "I feel"
+1. Write down an action, event, or location you will interact with today.
+2. Close your eyes and imagine yourself doing that thing.
+3. Write down how you feel while doing it. Start with _“I feel…”_
 4. Close your eyes and imagine yourself not doing that thing.
-5. Write down how you feel when you don't do that thing. Start with "I feel"
+5. _Write down how you feel when you don't do that thing. Start with "I feel"_
 
-#### Example-1
+### Example-1
 
-Going to Toastmasters: Imagining going there creates excitement
-Not Going There: Imagining not going there creates anxiousness like I am missing something
+**Going to Toastmasters**: I feel excited when I imagine going there.
 
-#### Example-2
+**Not going**: I feel anxious, like I am missing something.
 
-Go to the BBQ party: I feel like it will be interesting.
-Not going to BBQ party: I feel like I will miss something.
+### Example-2
+
+**Going to the BBQ party:** I feel like it will be interesting, and I’ll get to meet new people and spend time with my friends.
+
+**Not going to the BBQ party:** I feel like I will miss out on a lot of fun with my friends and the opportunity to meet new people.
+
+### Example-3
+**Allotting an extra hour for work:** I feel productive and confident that I will be able to finish my pending tasks.
+
+**Not working:** I feel anxious that I will have unfinished tasks and that I might not meet my deadlines.
 
 #### Extra
 
