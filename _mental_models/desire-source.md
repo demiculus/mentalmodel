@@ -8,32 +8,35 @@ prerequisites: objectivity
 
 #### Description
 
-Desires can be grouped in many ways. An easy way of grouping would be external vs internal.
+Desires can be categorized in many ways, but a fundamental distinction is between external and internal sources.
 
-An external desire is obtained from external sources and will cease to exist when the source goes away. Internal desires usually take decades to form thus are not expected to go away easily. Each desire has a trigger. When run into it, the desire will be activated.
+An external desire is derived from outside sources and often ceases to exist once that source is removed. Internal desires usually take decades to form; therefore, they are not expected to fade easily. Each desire has a trigger; when encountered, the desire is activated.
 
-Knowing where the desire comes from, helps us take control of our decisions. 
+Knowing where a desire originates helps us gain control over our decisions.
 
-Pursuing internal desires is better than external desires due to compounding effect. The external desire might fade away leaving us hating the thing that we're doing whether that thing is a job, a hobby or a business. On some occasions it might be beneficial for us to pursue the external desire. By understanding it we can put ourselves in situations where we are exposed to that thing more making sure the desire continues.
+Pursuing internal desires is generally more effective than external ones due to the compounding effect. An external desire might fade, leaving us resenting our work, whether it is a job, a hobby, or a business. By understanding these sources, we can intentionally place ourselves in situations where we are exposed to specific triggers, ensuring a beneficial desire continues.
 
 #### Practice
 
-1. Write down a desire you have
-2. Write down all the possible places you could have obtained that desire
-3. Write down ways that might make the desire go away
+1. Write down a desire you currently have.
+2. List all the possible sources from which you could have obtained that desire.
+3. Identify factors or changes that might make the desire dissipate.
 
 #### Example 1
 
-1. Creating a shopify startup in Singapore
-2. The auntie having a hard time selling her food from whatsapp
-3. When I stop talking with the auntie my desire to solve that problem goes away
+**Goal**: Creating a Shopify startup in Singapore.
+
+**Source**: Seeing an "auntie" having a hard time selling her food via WhatsApp.
+
+**Fade Factor:** When I stop interacting with her, my desire to solve that specific problem goes away.
 
 #### Example 2
 
-1. Creating dance videos
-2. Watching my friends dance videos on instagram & tiktok
-3. When I unfollow those friends my desire goes away
+**Goal**: Creating dance videos.
 
+**Source**: Watching my friends' dance videos on Instagram and TikTok.
+
+**Fade Factor:** When I unfollow those friends, my desire to create similar content goes away.
 
 #### Sources
 
