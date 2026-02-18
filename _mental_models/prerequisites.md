@@ -2,38 +2,70 @@
 layout: mental-model
 name: Prerequisites
 benefit: Understanding whats required
-summary: The reason something not happening is because it hasn't met its prerequisites
+summary: The reason something isn’t happening is that it hasn’t met its prerequisites.
 prerequisites:
 ---
 
-#### Description
+### Description
 
-This is the reason why self help books fail to help 90+% of the readers.
+This is one reason why many self-help books fail to help most readers.
 
-Everything in life has prerequisites. 
+Everything in life has prerequisites.
 
-If someone wants to learn Basic Arithmethics they need to learn Numbers first.
-If someone wants to start a startup, they need to have enough secure run way (funds)
+If someone wants to learn basic arithmetic, they must first understand numbers.
 
-The reason why something is not working is **ALWAYS** that the prerequisites are not there.
+If someone wants to start a startup, they need sufficient financial runway.
 
-For someone to start losing weight they have prerequisites that need to be fulfilled, giving them advice will bounce off of them 99% of the time. 
+The reason something isn’t working is almost **always** that the prerequisites are missing.
 
-#### Practice
+For example, if someone wants to lose weight but lacks the necessary foundations, advice will “bounce off” them most of the time. Until the prerequisites are fulfilled, progress will be inconsistent or unsustainable.
 
-1. Determine a goal
-2. Write down the prerequisites that are needed for the goal.
-3. Ask friends & peers to fill out your missing prerequisites.
+Instead of forcing the outcome, focus on building the conditions that make the outcome inevitable.
+
+### Practice
+
+1. Determine a specific goal.
+2. Write down all the prerequisites required to achieve that goal.
+3. Ask friends, mentors, or peers to help identify prerequisites you may be missing.
 
 
 #### Example-1
 
-1. Gaining muscle
-2. Prerequisites
- - Have strong enough psychological reason to gain muscle
- - Have enough time on calendar for workout
- - Have knowledge on how to gain muscle
- - Have access to the tools to gain muscle
+**Goal**: _Gaining Muscle_
 
-If one of these don't exist the person will not be able to gain muscle. Thus the person should stop worrying about gaining muscle and start fulfilling all of the prerequisites. Then gaining muscle will happen on its own.
+**Prerequisites**
+ - A strong psychological reason to gain muscle
+ - Enough time scheduled for workouts
+ - Knowledge of how to train effectively
+ - Access to equipment or facilities
+ - Proper nutrition
 
+If one of these is missing, progress will stall. Instead of worrying about gaining muscle, focus on fulfilling the prerequisites. Once they are in place, muscle gain becomes a natural result.
+
+#### Example-2
+
+**Goal:** _Getting a Better Job_
+
+**Prerequisites**
+- Clarity on what type of job you actually want
+- Relevant skills for that role
+- A strong resume and LinkedIn profile
+- Interview preparation
+- A consistent application process
+
+If you lack clarity, skills, or preparation, applying to hundreds of jobs won’t help.
+Instead of stressing about rejection, build the missing prerequisites. When they are fulfilled, opportunities increase significantly.
+
+#### Example-3
+
+**Goal:** _Improving a Romantic Relationship_
+
+**Prerequisites**
+- Emotional self-awareness
+- Communication skills
+- Willingness from both partners
+- Time and space for meaningful conversations
+- Personal emotional stability
+
+If one partner lacks emotional regulation or communication skills, relationship advice won’t stick.
+Instead of trying to “fix” the relationship directly, build the foundational skills first. Once the prerequisites are in place, the relationship improves more naturally.
