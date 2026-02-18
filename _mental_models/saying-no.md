@@ -6,50 +6,56 @@ summary: Saying yes to requests because you don't want to upset people can cause
 prerequisites: 
 ---
 
-#### Description
+## Description
 
-I say "yes", because I don't want to be rude to people and mostly when I say "no", I feel that person feels bad about it. There might be different cases for saying "yes", but in my case, I was thinking that saying yes to an offer, question or a request makes the thing easier.
+I often say “yes” because I don’t want to seem rude. When I say “no,” I worry that the other person will feel bad. In many cases, saying “yes” feels easier in the moment. It avoids tension and keeps things smooth.
 
-But saying "yes", can sometimes cause problems, like burn-out or bad feelings. In some cases you might end up with saying "yes" to a case which you can't handle.
+However, constantly saying “yes” can create long-term problems. It can lead to burnout, resentment, and frustration. Sometimes you may even agree to something you cannot realistically handle.
 
-So being able to say "no" to certain things can help to maintain your mental health. As well as provide better decision making in long-run.
+Being able to say “no” protects your time, energy, and mental health. It also improves your long-term decision-making. Every “yes” is a commitment. If you say “yes” to everything, you lose control over your own priorities.
 
+Learning to say “no” is not about being unkind — it is about setting boundaries.
 
-#### Practice 1 - Reminiscence
+### Practice 1 - Reminiscence
 
-1. Make sure you are relaxed and are not distracted by strong emotions. 
-2. Find 1 experience from previous experiences where you said "yes" to an external request.
-3. Write down 3 cases of what could have been if you said "no".
-4. Pick the best one and phrase it in a positive/nice way.
+1. Make sure you are relaxed and not overwhelmed by strong emotions. 
+2. Recall one experience where you said “yes” to an external request.
+3. Write down three possible outcomes that could have happened if you had said “no.”
+4. Choose the best alternative outcome.
+5. Rewrite your “no” response in a polite and positive way.
 
-#### Practice 2 - Simulation
+### Practice 2 - Simulation
 
-1. Imagine your friend requesting something from you.
-2. Imagine replying back to them saying "no".
+1. Imagine a friend asking you for something.
+2. Visualize yourself calmly saying “no.”
 
-Note that all of these examples & practices are to develop your "no" muscle. You should go as wild as you can with the simulations.
+These simulations are meant to strengthen your “no” muscle. Be bold in your imagination. The goal is not cruelty — it is comfort with boundary-setting.
 
-#### Example 1
+### Example 1
 
-I imagine myself going down the street in a chill mode. Some old lady requests me to help with carrying her bags.
+I imagine walking down the street in a relaxed mood. An elderly woman asks me to carry her bags.
 
-I imagine saying "no I am in a hurry", doesn't matter if I am or I am not. It will train my "no" muscle. I imagine the her saying okay and requesting help from the next person.
+I imagine saying, “I’m sorry, I’m in a hurry.” Whether I truly am or not doesn’t matter for the exercise. I imagine her saying “Okay,” and asking the next person for help.
 
-#### Example 2
+### Example 2
 
-I imagine being surfing on the internet and my friend texts me that I need to fix/do something.
-I imagine saying "no, I am exhausted today, I'm in my chill time, I'll look at it tomorrow"
+I imagine browsing the internet during my rest time. A friend texts me asking me to fix something immediately.
 
-#### Example 3
+I imagine replying, “I’m exhausted today and taking some time to rest. I’ll look at it tomorrow.”
 
-I imagine my sister wanting me to get up and check the food in 10 minutes.
-I imagine telling her "no, I am concentrated right now. You need to figure out another method which doesn't involve me"
+### Example 3
 
-#### Tips On Saying No
+I imagine my sister asking me to check the food in 10 minutes while I am deeply focused.
 
-1. Be concise and express your feelings without feeling guilty
-2. People can understand you if you be nice and reasonable to them. If you explain why you say "no", that might change the whole situation. And that can also helps you to maintain your relationship with this person.
-3. It's okay to say "I need some space" or "I'm unable to participate", there is nothing wrong about that.
+I imagine responding, “I’m concentrating right now. You’ll need to find another way to handle it.”
+
+### Tips On Saying No
+
+1. Be concise and express your feelings without feeling guilty.
+2. People can understand you if you are kind and reasonable. If you explain why you’re saying “no,” it might change the whole situation. It can also help you maintain your relationship with that person.
+3. It’s okay to say, “I need some space” or “I’m unable to participate.” There’s nothing wrong with that.
+
+Most people can understand a reasonable boundary when it is communicated respectfully. If helpful, briefly explain your reason. That can maintain trust and preserve the relationship.
 
 #### Extra
 Video : https://www.youtube.com/watch?v=-O_y4XR4yxg
