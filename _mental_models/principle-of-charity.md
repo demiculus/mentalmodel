@@ -2,47 +2,84 @@
 layout: mental-model
 name: Principle of Charity
 benefit: Better Judgement
-summary: Assume the best interpretation of people’s arguments to increase their accuracy
+summary: Assume the best interpretation of people’s arguments to improve your accuracy.
 prerequisites: 
 ---
 
-#### Description
+### Description
 
 
-The principle of charity is about assuming the best in what someone says. We often think someones argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic. This will increase the accuracy of the argument and we'll be able to move forward to a more correct outcome.
+The Principle of Charity means interpreting someone’s argument in its strongest reasonable form before criticizing it. We often assume that another person’s argument is irrational, illogical, or full of fallacies. However, most arguments are attempts at rational thought. When we assume the speaker is trying to be logical — even if imperfectly — we increase the accuracy of our evaluation.
 
-When you apply the principle of charity, you're looking for what's right rather than what's wrong.
+Applying the Principle of Charity helps us:
+- Understand what the other person actually means
+- Improve the quality of the discussion
+- Move closer to truth instead of winning an argument
+
+When you apply this principle, you actively look for what might be right in their position rather than immediately searching for what is wrong.
 
 #### Practice
 
-1. Write the argument
-2. Write down uncharitable way of approaching
-3. Write down charitable way of approaching
+1. Write down the argument.
+2. Write down the **uncharitable interpretation.**
+3. Write down the **charitable interpretation.**
 
 
-#### Example 1 - Misswritten Arguments
+#### Example 1 - Misstated Argument
 
-1. Alex: The human race has managed to land somebody on Mars and split the atom, therefore, we should be able to do something simpler, like redistributing the world’s substantial food supplies so that the poor get plenty.
-2. We haven’t managed to land somebody on Mars. Since it has a false premise, the argument couldn’t be either sound nor cogent. So it’s a bad argument.
-3. The human race has managed to land somebody, not on Mars, but on the Moon. Surely Alex also knows that, and must have made a mistake.
+**Argument**:
 
-#### Example 2 - Suppressed Information
+Alex: “The human race has managed to land someone on Mars and split the atom. So we should be able to solve something simpler, like redistributing food so the poor have enough.”
 
-1. Quinn eats regularly at McDonald’s, so Quinn doesn’t care about the environment.
-2. Quinn eats regularly at McDonald’s. Anybody who eats regularly at McDonald’s doesn’t care about the environment. Therefore Quinn doesn’t care about the environment.
-3. Quinn eats regularly at McDonald’s. Most people who eat regularly at McDonald’s don’t care about the environment. Therefore, probably Quinn doesn’t care about the environment.
+**Uncharitable interpretation:**
 
-#### Example 3 - Suppressed Conclusion
+“We haven’t landed someone on Mars. Since the premise is false, the argument is invalid and therefore bad.”
 
-1. There are lots of known cases of discrimination against gay academics that are out in their work environment. Do you really think that it’s safe to be out?
-2. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, It’s unsafe for all gay academics to be out in their work environment.
-3. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, probably It’s unsafe for most gay academics to be out in their work environment.
+**Charitable interpretation:**
 
-#### Example 4 - Overly Charitable
+“The human race hasn’t landed someone on Mars, but we have landed on the Moon. Alex likely misspoke. His main point is that humanity has solved extremely complex problems, so solving food distribution should also be possible.”
 
-1. John was supposed to submit his project by Friday, but he missed the deadline. Therefore, he is unreliable and cannot be trusted with important tasks.
-2. John missed the deadline, which means he cannot be trusted to complete important tasks. He probably doesn't care about his responsibilities and is not reliable.
-3. John missed the deadline for the project, which is unlike him since he usually completes his work on time. Maybe he encountered some unforeseen circumstances or faced some difficulties that delayed his work. Let's talk to him and find out what happened before making any conclusions about his reliability.
+#### Example 2 - Overgeneralization
+
+**Argument:**
+
+“Quinn eats regularly at McDonald’s, so Quinn doesn’t care about the environment.”
+
+**Uncharitable interpretation:**
+
+“Anyone who eats at McDonald’s doesn’t care about the environment. Therefore Quinn clearly doesn’t care.”
+
+**Charitable interpretation:**
+
+“Some people associate fast-food consumption with environmental impact. The person may be suggesting that frequent consumption could indicate lower concern for environmental issues — though that doesn’t necessarily apply to everyone.”
+
+#### Example 3 - Emotional Statement About Workplace Safety
+
+**Argument**:
+  
+“There are many cases of discrimination against employees who speak up at work. Do you really think it’s safe to speak up?”
+
+**Uncharitable interpretation:**
+
+“Speaking up is always unsafe. No one should ever voice concerns.”
+
+**Charitable interpretation:**
+
+“There are documented cases where speaking up led to negative consequences. The person may be expressing concern that, in some environments, speaking up carries real risks.”
+
+#### Example 4 - Jumping to Character Judgment
+
+**Argument**:
+
+“John missed the project deadline. Therefore, he is unreliable and cannot be trusted with important tasks.”
+
+**Uncharitable interpretation:**
+
+“John missed one deadline, so he must not care about his responsibilities and is generally unreliable.”
+
+**Charitable interpretation:**
+
+“John missed the deadline, which is unusual since he normally completes his work on time. He may have faced unforeseen circumstances. It would be better to ask what happened before concluding that he is unreliable.”
 
 #### References
 
