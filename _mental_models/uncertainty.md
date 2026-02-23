@@ -2,37 +2,47 @@
 layout: mental-model
 name: Uncertainty
 benefit: Increase elasticity of mind
-summary: Not having concrete beliefs, helps us leave our current path/decision/actions for better ones.
+summary: Not having rigid beliefs helps us leave our current path, decisions, or actions for better ones.
 prerequisites:
 ---
 
-#### Description
+## Description
 
-We are certain with most of the things we do, but there is ALWAYS a better method, way, action which can result in better value. Our mind should not be solid but as liquid as possible and be able to morph easily.
+We are certain about most of the things we do. But there is **always** a better method, approach, or action that can create more value.
 
-This mental training makes it easier for us to change our thoughts & concepts. When a person stops being sure of a certain concept it becomes easier to think outside the box.
+Our mind should not be solid. It should be as liquid as possible — able to morph and adapt easily.
 
-Being aware that my thoughts might be wrong
+This mental training makes it easier to change our thoughts and concepts. When a person stops being absolutely sure about something, it becomes easier to think outside the box.
 
-Quote: Teach thy tongue to say I do not know, and thou shalt progress
+Being aware that _my thoughts might be wrong_ is a strength, not a weakness.
 
-#### Practice
+Quote: _Teach thy tongue to say I do not know, and thou shalt progress_
 
-Think of a couple things you are mostly sure of. Now write down that you are not sure of them.
+## Practice
 
-#### Example-1
+- Think of a few things you are mostly sure about.
+- Write down that you are not sure about them.
+- Do not replace them with new beliefs. Just loosen your certainty.
 
-- Tasks: I'm not sure which tasks bring the most output
-- Starbucks: I'm not sure this is the best place to work
-- Selftime: I'm not sure I need to have selftime to feel better
-- Mental Models: I'm note sure MM practices are really working
+### Example-1
 
-#### Example-2
+- Tasks: I’m not sure which tasks actually bring the most output.
+- Starbucks: I’m not sure this is the best place to work.
+- Self-time: I’m not sure I need self-time to feel better.
+- Mental Models: I’m not sure these practices are truly working.
 
-- Life: I have no idea what I will become in the future
-- Walking: I don't know if the way I walk is the correct form of walking
-- Relationships: I don’t know if I’m building good, long lasting ones or not
-- Brush teeth: I'm not sure brushing teeth twice a day is the best option
+### Example-2
+
+- Life: I have no idea what I will become in the future.
+- Walking: I don’t know if the way I walk is the most efficient form.
+- Relationships: I don’t know if I’m building strong, long-lasting ones.
+- Brushing teeth: I’m not sure brushing twice a day is the optimal approach.
+
+### Example-3
+- Productivity: I’m not sure my current system is the best one for me.
+- Diet: I’m not sure the foods I avoid are actually harmful to me.
+- Opinions: I’m not sure my political or philosophical views are correct.
+- Habits: I’m not sure the way I structure my day is the most effective.
 
 #### Extra
 
