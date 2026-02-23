@@ -2,11 +2,11 @@
 layout: mental-model
 name: Top 5
 benefit: Increases health
-summary: Once a person resolves these 5, they will be 90% to a happy healthy life.
+summary: Once a person resolves these five things, they’re 90% of the way to a happy, healthy life.
 prerequisites:
 ---
 
-#### Description
+## Description
 
 The top 5 are below.
 
@@ -16,36 +16,44 @@ The top 5 are below.
 4. Work
 5. Nutritions
 
-Breaking any one of these will break most things in life. 
+Breaking any one of these will affect most areas of life.
 
-If a person does not have good relationships it doesn't matter how much they workout, how healthy they eat, how much they try to focus on their work or how comfortable sleeping arrangement they make, they will have issues with all of them. You must have heard the saying `leave your relationship issues outside`. Yet it is one of the hardest things. We as humans, are wired for social connectivity more than anything else. 
+If a person does not have good relationships, it does not matter how much they work out, how healthy they eat, how focused they are on work, or how comfortable their sleeping setup is — it will eventually affect everything. Humans are wired for social connection more than anything else.
 
-Having a bad sleep schedule will make a mind not function properly. So if a person isn't getting enough sleep it doesn't matter how healthy they eat or the quality of their relationships cause they'll be more likely to be grumpy and seek dopamine through food and bring those down as well. 
+If someone has a poor sleep schedule, their mind will not function properly. It does not matter how healthy they eat or how good their relationships are. Lack of sleep increases irritability, reduces focus, and increases the tendency to seek dopamine through unhealthy behaviors.
 
-It doesn't matter if they work at the best job in the world. If they aren't getting enough exercises they will feel tired, will have neck pain, back pain and all sorts of other biological conditions which make their work life much harder.
+It does not matter if someone has the best job in the world. If they do not exercise, they will feel tired, develop neck or back pain, and experience other physical issues that make both work and life harder.
 
-Work should be satisfactory & should suit the person. If they are being stressed because of work others don't matter. They can eat all the carbs or all the veggies they want. Have amazing spouse. It won't improve their life much with respect to the decrease their unsatisfying job gives them.
+Work should be satisfactory and suitable for the person. If someone is constantly stressed because of work, the other areas lose impact. They can eat perfectly and have a great spouse — but an unsatisfying job will still reduce overall well-being.
 
-Nutritions: If a person is diarrhea 5 days a month, have pimples half the time, gets stomach ache or cramps its better to look at this. In most people nutrition isn't apparent until the age of 30. But it'll kick in hard and the younger selfs habits are hard to change. Better start early.
+Nutrition is often underestimated. For many people, the consequences of poor eating habits become more visible after the age of 30. By then, habits are harder to change. It is better to build good ones early.
 
-When a person has all of these 5 items, they have achieved happiness 90%
+When a person maintains all five areas at a healthy level, they have achieved most of what contributes to long-term happiness.
 
-#### Exercise
+### Exercise
 
-##### Method
-1. On a scale of 1-10 give points to how good these categories are in your life wheres 1 = Bad & 5 = Okay, 10 = Great
-2. Take the lowest one
-3. This is your priority at this part of your life, use the other mental models to make this one better
+#### Method
 
-##### Example
-1. 
+1. On a scale of 1–10, rate each category in your life:
+    - 1 = Bad
+    - 5 = Okay
+    - 10 = Great
+2. Identify the lowest score.
+3. That area is your current priority. Use other mental models to improve that one first
+
+#### Example
+
   - Relationships: 8
   - Sleep: 6
   - Workout: 2
   - Work: 4
   - Nutritions: 1
-2. Nutritions is the lowest
-3. Use the [5 whys mental model](https://mmpractices.com/mental_models/5-whys/) to understand why your eating habits are the way they are. Use [prerequisite mental model](https://mmpractices.com/mental_models/prerequisites/) to figure out how you can start eating a healthy diet.
+
+**Nutrition** is the lowest.
+
+Use the [5 Whys](https://mmpractices.com/mental_models/5-whys/) mental model to understand why your eating habits are the way they are. 
+
+Use [Prerequisite](https://mmpractices.com/mental_models/prerequisites/) mental model to identify what must be in place to improve your diet (meal prep, grocery planning, removing junk food from the house, etc.).
 
 
 ##### Resources
