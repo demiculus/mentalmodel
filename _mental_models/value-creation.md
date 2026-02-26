@@ -6,51 +6,70 @@ summary: Certain % of the value created can be captured
 prerequisites: 
 ---
 
-#### Description
+## Description
 
-Value is a relative concept. Something might be valuable for certain entities while not so much for others. I'll explain this concept in examples.
+Value is a relative concept. Something may be highly valuable to one person or entity, while barely useful to another.
 
-Say you created a new technology so that eye-glasses can be created for $10 less price. You won't be earning $10 per glasses. You will share that value with a set of other partners. The end user will be able to purchase it for $2 cheaper. The manufacturer will save $3 on materials & time. The store clerk will have an increased margin of $2. So you've basically distributed 70% of the value you've created to other partners, thus they are all happy to work with you. And you get 30% of the value you created.
+For example, imagine you create a new technology that allows eyeglasses to be produced at $10 less per unit. You will not capture the full $10 yourself. The value will be distributed across the system:
+- The end user buys the glasses for $2 cheaper.
+- The manufacturer saves $3 in materials and time.
+- The retailer gains an additional $2 in margin.
+- You capture the remaining $3.
 
-Lets say you work for a company, you make your company $10k/mo and the company pays you $2k/mo. You are capturing 20% of the value you create for the company. 
+You created $10 of value but captured 30%. The rest was shared. That sharing is what makes the system work. Everyone has an incentive to cooperate.
 
-You will never be able to capture 100% of the value you create. If you try to do that the company won't have a reason to hire you. The store clerk won't have a reason to justify selling your products. The manufacturer won't have a reason to change their production line etc. So in order for other people to work with you you need to be creating them a lot of value. In different industries this % can differ. For some industries you can capture %1-2 of the value for some you can capture 50%. 
+The same applies to employment. If you generate $10,000 per month for a company and you are paid $2,000, you are capturing 20% of the value you create.
 
-Overall if you're capturing very little, you may try to think of ways how to capture more, but majority of the time it is better to increase the amount of value you create for others. 
+You will never capture 100% of the value you create. If you try, there is no reason for others to participate. The company would not hire you. The retailer would not stock your product. The manufacturer would not change their process.
 
-Another method of capturing value is indirectly. Dan Bricklin the inventor of Spreadsheets. Didn't patent and created billions of $s of value for the global economy without capturing it. But indirectly, due to its fame oppourtunities came in.
+In different industries, the percentage you can capture varies. In some industries it may be 1–2%. In others, it may be 50%. 
 
-You don't need to capture all the value you create. But as long as you're focused on creating value you will find oppourtunities to capture some of it.
+If you are capturing very little, you can look for ways to increase your share. But most of the time, the better strategy is to increase the total value you create.
 
-The values we talked about so far is in monetary form. But this value can be anything. It can be in the form of love, care, time, knowledge, fun. 
+Another way to capture value is indirectly. **Dan Bricklin**, the inventor of spreadsheets, did not patent the idea in a way that captured all its economic value. Spreadsheets created billions of dollars in global economic impact. He did not capture most of it directly. But indirectly, reputation and opportunities followed.
 
+You do not need to capture all the value you create. As long as you focus on creating value, opportunities to capture some of it will appear.
 
-#### Practice
+The value discussed so far has been monetary. But value can also be love, care, time, knowledge, or fun.
 
-1. Think of a value you're creating.
-2. Think of the values amount.
-3. How much of it can you capture directly vs indirectly?
+## Practice
 
-#### Example-1
+- Think of value you are currently creating.
+- Estimate the total value created.
+- Estimate how much you capture directly.
+- Estimate how much you may capture indirectly.
 
-1. Told my friend to invest in crypto.
-2. He invested $1k now it is $10k.
-3. Directly 0, indirectly, he probably feels grateful and will let me know if he sees a similar oppourtunity.
+### Example-1
 
-#### Example-2
+Told my friend to invest in crypto.
 
-1. Gave someone marketing tips.
-2. Increased his users by 10% and made $100k more this year.
-3. Directly 0, indirectly, he is also sharing information with me that might have impacted my business.
+He invested $1,000. It became $10,000.
+- Total value created: $9,000.
+- Direct capture: $0.
+- Indirect capture: Gratitude, trust, and future opportunity sharing.
 
-#### Example-3
+### Example-2
 
-1. Generating sales for my company.
-2. Hard to say, but around $5k/mo + brand recognition.
-3. Directly $3k/mo + increasing my network.
+Gave someone marketing advice.
 
-#### Example-4
+It increased their users by 10% and helped generate $100,000 more this year.
+- Total value created: $100,000+.
+- Direct capture: $0.
+- Indirect capture: Access to their insights, shared strategies, and stronger professional relationship.
 
-1. Giving feedback to someones work.
-2. Making his work 10% better.
-3. I will get to read 10% better articles from him in the future.
+### Example-3
+
+Generating sales for my company.
+
+Approximately $5,000 per month plus brand recognition.
+- Direct capture: $3,000 per month salary plus network expansion.
+- Indirect capture: Experience, reputation, future leverage.
+
+### Example-4
+
+Giving feedback on someone’s work.
+
+Improving their output by 10%.
+- Total value created: Higher-quality work over time.
+- Direct capture: $0.
+- Indirect capture: Better content to consume, intellectual growth, stronger relationship.
