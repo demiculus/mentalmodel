@@ -1,6 +1,6 @@
 ---
 layout: mental-model
-name: Oppourtunity Magnet
+name: Opportunity Magnet
 benefit: This mental model helps idenfity ways we can be chased rather being a chaser
 summary: Do not focus only on chasing opportunities. Focus on becoming the type of person opportunities chase.
 prerequisites:
