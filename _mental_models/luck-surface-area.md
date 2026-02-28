@@ -13,54 +13,53 @@ The amount of serendipity that occurs in your life — your _Luck Surface Area_ 
 <img src="/assets/img/luck-surface-area.png" alt="luck surface area" width="500"/>
 
 ## Practice
-
-### Method 1
-
-**From doing:**
-Think of something you are currently doing.
-  - How much energy are you putting into doing that thing?
-  - How much energy are you putting into talking about that thing?
-  - Which one should you increase or decrease to maximize your _Luck Surface Area_?
-  - What are ways I can do more doing/talking?
-
-### Method 2
-
-**From telling:**
-
-Think of something you are already talking about or sharing
-  - How much energy are you putting into actually doing that thing?
-  - How much energy are you putting into talking about it?
-  - Which one should you increase or decrease to maximize your _Luck Surface Area_?
-  - What are ways I can do more doing/talking?
+1. Think of something you are currently doing or talking about.
+2. Rate how much energy you are putting into doing it (1–10).
+3. Rate how much energy you are putting into telling people about it (1–10).
+4. Decide which one you should increase to maximize your Luck Surface Area.
+5. List concrete ways you can increase either doing or telling.
 
 ### Example-1
 
-**Doing**: Working on my game
-
-**Doing Energy:** 10
-
-**Telling Energy:** 1
+**Working on my game**
+- Doing Energy: 10
+- Telling Energy: 1
 
 I should increase my telling to expand my Luck Surface Area.
 
-Ways I can increase my talking:
-  - Stream on Twitch while working and add a button on my website where players can watch me develop the game.
-  - Write blog posts about what we’re building and how we’re building it.
+Ways to increase telling:
+- Stream development sessions and let players watch the process.
+- Add a “Watch us build” section on the website.
+- Write blog posts explaining design decisions.
+- Share milestones publicly instead of quietly shipping them.
+
+More visibility → more surface area → more unexpected opportunities.
 
 ### Example-2
 
-**Doing**: Breakdance
-
-**Doing Energy**: 10
-
-**Telling Energy:** 0
-
+**Breakdancing**
+- Doing Energy: 10
+- Telling Energy: 0
+  
 I should start telling people about it.
 
-Ways I can increase my telling:
-  - Post Instagram, Facebook, or WhatsApp stories when I practice.
-  - Edit videos of my routines and freestyles, and maybe create short trailers.
-  - Write blog posts about what I’ve learned during practice and share them in relevant subreddits.
+Ways to increase telling:
+- Post short clips of practice sessions.
+- Share progress updates weekly.
+- Write about what I’m learning and how beginners can start.
+- Connect with other dancers and share routines.
+
+### Example-3
+
+**Vlogging about my half marathon**
+- Doing Energy: 5
+- Telling Energy: 6
+  
+Ways to increase doing:
+- Follow a structured training plan instead of running randomly.
+- Add one more weekly long run.
+- Improve sleep and nutrition to support recovery.
+- Track pace and gradually increase intensity.
 
 #### Extra
 - https://www.instagram.com/reel/Cu57UxQgKgV
