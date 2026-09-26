@@ -10,7 +10,7 @@ prerequisites:
 
 I say "yes", because I don't want to be rude to people and mostly when I say "no", I feel that person feels bad about it. There might be different cases for saying "yes", but in my case, I was thinking that saying yes to an offer, question or a request makes the thing easier.
 
-But saying "yes", can sometimes cause problems, like burn-out or bad feelings. In some cases you might end up with saying "yes" to a case which you can't handle.
+But saying "yes", can sometimes cause problems, like burn-out or bad feelings. In some cases you might end up saying "yes" to a case which you can't handle.
 
 So being able to say "no" to certain things can help to maintain your mental health. As well as provide better decision making in long-run.
 
@@ -33,11 +33,11 @@ Note that all of these examples & practices are to develop your "no" muscle. You
 
 I imagine myself going down the street in a chill mode. Some old lady requests me to help with carrying her bags.
 
-I imagine saying "no I am in a hurry", doesn't matter if I am or I am not. It will train my "no" muscle. I imagine the her saying okay and requesting help from the next person.
+I imagine saying "no I am in a hurry", doesn't matter if I am or I am not. It will train my "no" muscle. I imagine her saying okay and requesting help from the next person.
 
 #### Example 2
 
-I imagine being surfing on the internet and my friend texts me that I need to fix/do something.
+I imagine surfing on the internet and my friend texts me that I need to fix/do something.
 I imagine saying "no, I am exhausted today, I'm in my chill time, I'll look at it tomorrow"
 
 #### Example 3
@@ -48,7 +48,7 @@ I imagine telling her "no, I am concentrated right now. You need to figure out a
 #### Tips On Saying No
 
 1. Be concise and express your feelings without feeling guilty
-2. People can understand you if you be nice and reasonable to them. If you explain why you say "no", that might change the whole situation. And that can also helps you to maintain your relationship with this person.
+2. People can understand you if you are nice and reasonable to them. If you explain why you say "no", that might change the whole situation. And that can also help you to maintain your relationship with this person.
 3. It's okay to say "I need some space" or "I'm unable to participate", there is nothing wrong about that.
 
 #### Extra

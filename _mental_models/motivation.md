@@ -19,7 +19,7 @@ Some examples might be:
 
 For this example, we’ll use **losing weight.**
 
-### Step 2: Select one of the motivational outlook
+### Step 2: Select one of the motivational outlooks
 
 <a href="https://s3.us-east-2.amazonaws.com/files.fisher.osu.edu/leadreadtoday/public/inline-images/batts.png?VersionId=UbLG13tY5c5jmI4VdGRNGdzjNDDxrIra"><img src="https://s3.us-east-2.amazonaws.com/files.fisher.osu.edu/leadreadtoday/public/inline-images/batts.png?VersionId=UbLG13tY5c5jmI4VdGRNGdzjNDDxrIra" alt="spectrum of motivation, motivational outlook chart" width="500"/></a>
 
@@ -72,7 +72,7 @@ For this example, we’ll use **losing weight.**
 **Inherent**: Think back to your childhood and identify activities where you lost track of time and felt deep enjoyment. Then connect those elements to your goal.
 - _Example_: As a child, I loved optimizing numbers and tracking stats. If I approach weight loss as a game — creating spreadsheets to track food, hunger, and calories — I can “min-max” my diet like a strategy challenge.
 
-### Step 5: Practice mindfullness
+### Step 5: Practice mindfulness
 
 - Take two minutes to reflect on the situation.
 - Ask yourself:

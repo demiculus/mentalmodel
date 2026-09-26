@@ -60,6 +60,6 @@ I am working on Colonist.io (my game). What are some actions that might provide 
 #### Extra
 
 [Watch from 47:00 to 50:00](https://youtu.be/m_56L8EGLIk?t=2857)
-[Navals list](https://twitter.com/naval/status/1054984950192181248?lang=en)
+[Naval's list](https://twitter.com/naval/status/1054984950192181248?lang=en)
 [James List](https://twitter.com/jamesclear/status/1054835950059163649?lang=en)
 

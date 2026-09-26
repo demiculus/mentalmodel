@@ -2,7 +2,7 @@
 layout: mental-model
 name: Acceptance
 benefit: Decrease negative emotions - Release judgment
-summary: Accepting as it is decreases all the negative emotions such anger, anxiety, shame, fear.
+summary: Accepting as it is decreases all the negative emotions such as anger, anxiety, shame, fear.
 prerequisites: 
 ---
 

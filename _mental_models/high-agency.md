@@ -12,7 +12,7 @@ A **high-agency person** seeks to bend reality to their will. They either find a
 
 A **low-agency person** accepts reality as it is given to them. They don’t question it. They are passive. They outsource their decision-making to others.
 
-Person A is Low Agency wheres person B is High Agency
+Person A is Low Agency whereas person B is High Agency
 
 ![alt text](https://pbs.twimg.com/media/DtMZnBrWsAA97f6?format=jpg&name=900x900) 
 
@@ -80,4 +80,4 @@ Person A is Low Agency wheres person B is High Agency
 
 #### Extra
 
-[George Mcgill Tweet Storm](https://twitter.com/george__mack/status/1068238562443841538)
+[George Mack Tweet Storm](https://twitter.com/george__mack/status/1068238562443841538)

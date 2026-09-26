@@ -8,7 +8,7 @@ prerequisites:
 
 #### Description
 
-information sharing protocol. Self-honesty is upper bound for honesty towards others.
+information sharing protocol. Self-honesty is the upper bound for honesty towards others.
 
 #### Practice
 

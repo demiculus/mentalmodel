@@ -8,7 +8,7 @@ prerequisites:
 
 #### Description
 
-Many times we tend to leave things at a certain stage where we could have made more progress. We either switch tasks, wait for approval or get someone else to tell us how to proceed. During these times it is mostly a good option to go forward another step and maybe another and maybe another until the process it fully complete and delivered.
+Many times we tend to leave things at a certain stage where we could have made more progress. We either switch tasks, wait for approval or get someone else to tell us how to proceed. During these times it is mostly a good option to go forward another step and maybe another and maybe another until the process is fully complete and delivered.
 
 #### Practice:
 
@@ -27,7 +27,7 @@ What are the next steps after submission:
 1. Come up with ideas
 2. Select the best idea
 3. Iterate on the idea
-4. Ask feedback from the team
+4. Ask for feedback from the team
 5. Iterate on the idea more
 7. Break down to smaller modules for testing
 8. Test the smaller modules with users

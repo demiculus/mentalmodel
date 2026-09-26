@@ -8,7 +8,7 @@ layout: default
 
 <div class="call-to-action py-3">
   <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
-    Subscribe For New Practices
+    Subscribe for new practices
   </button>
 
   <!-- Modal -->
@@ -17,15 +17,15 @@ layout: default
       <div class="modal-content">
         <div class="modal-body">
           <div class="text-center">
-            <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">
-              <span class="fa fa-discord"></span>
+            <a class="btn btn-primary my-3" href="https://www.subscribepage.com/mmpractices" target="_blank">
+              <span class="fa fa-envelope"></span>
               Join our email list
             </a>
           </div>
           <div class="text-center">
             <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">
-              <span class="fa fa-discord"></span>
-              Join our Discord Channel
+              <span class="fa fa-comments"></span>
+              Join our Discord channel
             </a>
           </div>
           <div class="text-center">
@@ -43,25 +43,28 @@ layout: default
 
 
 <div class="container pb-5">
-  <div class="text-center mt-5 mb-4">
-    <!-- <h1 class="h3">
-      Mental Model Practices
-    </h1> -->
+  <h1 class="sr-only">{{ site.title }}</h1>
+  <div class="mt-4 mb-3">
+    <button type="button" class="search-launcher" data-search-open>
+      <span class="fa fa-search" aria-hidden="true"></span>
+      <span>Search mental models</span>
+    </button>
   </div>
 
-  <table id="coin-table" class="sortable table wrap display dt-responsive" style="width:100%">
+  <div class="table-scroll">
+  <table id="coin-table" class="table">
     <thead>
       <tr>
         <th>Name</th>
-        <th class="" data-toggle="tooltip" data-placement="top" data-html="true" title="Each mental model benefits the user in someway">Benefit</th>
-        <th class="">Summary</th>
+        <th>Benefit</th>
+        <th>Summary</th>
       </tr>
     </thead>
 
     <tbody>
       {% for mental_model in mental_models %}
       <tr>
-        <td data-order="{{ mental_model.name }}" class="align-middle">
+        <td class="align-middle">
           <a href="{{ mental_model.url | prepend: site.baseurl }}">
             <span>{{ mental_model.name }}</span>
           </a>
@@ -74,13 +77,5 @@ layout: default
       {% endfor %}
     </tbody>
   </table>
+  </div>
 </div>
-<script>
-  $(document).ready(function() {
-  $('#coin-table').DataTable({
-  "order": [[ 3, "desc" ]],
-  responsive: true,
-  });
-  $('[data-toggle="tooltip"]').tooltip();
-  } );
-</script>

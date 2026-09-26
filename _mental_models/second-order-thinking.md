@@ -2,10 +2,10 @@
 layout: mental-model
 name: Second-Order Thinking
 benefit: Better decisions
-summary: Think beyond the immediate impact of a choice and considering the longer-term, indirect effects.
+summary: Think beyond the immediate impact of a choice and consider the longer-term, indirect effects.
 prerequisites:
 ---
-Second-order thinking refers to the process of considering the potential second and third-order consequences of a decision or action. It involves thinking beyond the immediate impact of a choice and considering the longer-term, indirect effects it may have.
+Second-order thinking refers to the process of considering the potential second and third-order consequences of a decision or action. It involves thinking beyond the immediate impact of a choice and consider the longer-term, indirect effects it may have.
 
 
 #### Practice

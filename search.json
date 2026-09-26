@@ -1,0 +1,13 @@
+---
+layout: null
+sitemap: false
+---
+[
+{% for mental_model in site.mental_models %}  {
+    "name": {{ mental_model.name | jsonify }},
+    "url": {{ mental_model.url | prepend: site.baseurl | jsonify }},
+    "benefit": {{ mental_model.benefit | jsonify }},
+    "summary": {{ mental_model.summary | jsonify }},
+    "html": {{ mental_model.content | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}]

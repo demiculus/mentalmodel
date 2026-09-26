@@ -1,0 +1,117 @@
+// Search
+//-------------------------------
+// Popup markup: _includes/main/search.html, behavior: assets/js/search.js
+
+// Search bar on the home page, opens the popup
+.search-launcher {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: .5rem .75rem;
+    color: #6c757d;
+    text-align: left;
+    cursor: text;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+
+    .fa-search {
+        margin-right: .5rem;
+    }
+
+
+    &:hover {
+        border-color: #adb5bd;
+    }
+}
+
+.search-modal .modal-dialog {
+    max-width: 640px;
+}
+
+// Matching words, in search results and on the page opened from search
+.search-modal mark,
+mark.search-hit {
+    padding: 0;
+    color: inherit;
+    background-color: #fff3a3;
+}
+
+.search-input-row {
+    display: flex;
+    align-items: center;
+    padding: .75rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+
+    .close {
+        padding: 0 .25rem;
+    }
+}
+
+.search-input {
+    flex: 1;
+    min-width: 0;
+    padding: .25rem .75rem;
+    font-size: 1.125rem;
+    color: inherit;
+    background: transparent;
+    border: 0;
+    // No box around the field: it is the only thing in the popup and gets focus
+    // on open, so the blinking cursor (in the link color) shows where you type
+    outline: 0;
+    caret-color: var(--link-color);
+
+    &::-webkit-search-cancel-button {
+        display: none;
+    }
+}
+
+.search-results {
+    max-height: 60vh;
+    padding: .5rem;
+    overflow-y: auto;
+}
+
+.search-result {
+    display: block;
+    padding: .625rem .75rem;
+    color: inherit;
+
+    &:hover,
+    &:focus {
+        color: inherit;
+    }
+
+    &.active {
+        background-color: rgba(0, 98, 204, .08);
+    }
+}
+
+.search-result-title {
+    display: block;
+    font-weight: 600;
+    color: var(--link-color);
+}
+
+.search-result-section {
+    margin-left: .375rem;
+    font-size: .875rem;
+    font-weight: 400;
+    color: #5a6268;
+}
+
+.search-result-snippet {
+    display: block;
+    margin-top: .125rem;
+    font-size: .875rem;
+    line-height: 1.45;
+    color: #495057;
+}
+
+.search-empty {
+    margin: 0;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    color: #6c757d;
+}
+

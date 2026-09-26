@@ -29,7 +29,7 @@ https://en.wikipedia.org/wiki/5_Whys
 3. Why do I feel like I will regret that I wasn't with her enough?
  - Because I feel like I need to make up for it.
 4. Why do I feel like I need to make up for it?
- - Because I've avoided her and acted bad towards her all my childhood.
+ - Because I've avoided her and acted badly towards her all my childhood.
 5. Why did I avoid her and act poorly toward her throughout my childhood?
  - Because I wanted to explore my sexuality, but she was so controlling that I felt I couldn't.
 

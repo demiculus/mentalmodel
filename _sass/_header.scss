@@ -13,8 +13,68 @@
 
 }
 .logosvg {
-    height: 2.5rem;
+    height: auto;
+    max-height: 2.5rem;
+    max-width: 100%;
+    // The logo PNG has empty space on its left (26px of 1280). Pull it back so
+    // the letters line up with the page text below.
+    margin-left: -0.52rem;
     // -webkit-filter: var(--invert-logo-color);
+}
+
+// Nav sits under the logo on phones, so line up the first link with the logo
+@media (max-width: 767.98px) {
+    .nav-masthead {
+        margin-left: -1rem;
+        margin-top: .5rem;
+    }
+}
+
+// Icon-only nav buttons (search, theme) look like the other nav links
+.nav-icon-button {
+    background: none;
+    border: 0;
+    cursor: pointer;
+}
+
+// Moon and sun share one fixed 1em box, so the button never changes size.
+// Both stay in the DOM and cross-fade.
+.theme-icons {
+    position: relative;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+}
+
+.theme-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .theme-icon {
+        transition-property: opacity, transform, filter;
+        transition-duration: 300ms;
+        transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+    }
+}
+
+.theme-icon-dark,
+[data-theme="dark"] .theme-icon-light {
+    opacity: 0;
+    transform: scale(0.25);
+    filter: blur(4px);
+}
+
+[data-theme="dark"] .theme-icon-dark {
+    opacity: 1;
+    transform: scale(1);
+    filter: blur(0);
 }
 
 // .menu {

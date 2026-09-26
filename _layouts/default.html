@@ -10,9 +10,13 @@ layout: compress
   </head>
 
   <body>
+    <a class="sr-only sr-only-focusable skip-link" href="#main">Skip to content</a>
     {% include main/header.html %}
+    {% include main/search.html %}
 
+    <main id="main">
     {{ content }}
+    </main>
 
     {% include main/footer.html %}
 

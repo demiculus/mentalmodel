@@ -24,7 +24,8 @@ The main parts of this skill are as follows:
 
 1. Figuring out the guaranteed, achievable small goal. If I asked myself, "Can I get to 3:01?", I would have said yes, achieved it instantly, and stopped. Therefore, figuring out the right number is a skill, and you'll get better at it over time.
 2. Keep asking the question. If a person continues asking this question, they'll either witness true failure (muscle, mind, etc.) or they'll achieve their larger goal. Initially you'll be able to do 1-3 rounds of this. But as you get better you'll be doing this 10-20 or even more times.
-3. Asking the question at the right time. Lets say my goal is to get to 3:10. If I ask, "Can I get to 3:20" when I reach 3:10, it's already too late, and my body will have caved in. Therefore, I need to ask the question at the right time—ideally a bit before the previous goal is achieved—so my mind has enough time to aim at the next goal.
+3. Asking the question at the right time. Let's say my goal is to get to 3:10. If I ask, "Can I get to 3:20?" when I reach 3:10, it's already too late, and my body will have caved in. Therefore, I need to ask the question at the right time—ideally a bit before the previous goal is achieved—so my mind has enough time to aim at the next goal.
+
 #### Practice
 
 1. Define a larger goal.

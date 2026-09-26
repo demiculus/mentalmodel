@@ -9,7 +9,7 @@ prerequisites:
 #### Description
 
 
-The principle of charity is about assuming the best in what someone says. We often think someones argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic. This will increase the accuracy of the argument and we'll be able to move forward to a more correct outcome.
+The principle of charity is about assuming the best in what someone says. We often think someone's argument has logical fallacies or irrationality. But we should be aware that their arguments came from rational and logic. This will increase the accuracy of the argument and we'll be able to move forward to a more correct outcome.
 
 When you apply the principle of charity, you're looking for what's right rather than what's wrong.
 
@@ -20,10 +20,10 @@ When you apply the principle of charity, you're looking for what's right rather 
 3. Write down charitable way of approaching
 
 
-#### Example 1 - Misswritten Arguments
+#### Example 1 - Miswritten Arguments
 
 1. Alex: The human race has managed to land somebody on Mars and split the atom, therefore, we should be able to do something simpler, like redistributing the world’s substantial food supplies so that the poor get plenty.
-2. We haven’t managed to land somebody on Mars. Since it has a false premise, the argument couldn’t be either sound nor cogent. So it’s a bad argument.
+2. We haven’t managed to land somebody on Mars. Since it has a false premise, the argument could be neither sound nor cogent. So it’s a bad argument.
 3. The human race has managed to land somebody, not on Mars, but on the Moon. Surely Alex also knows that, and must have made a mistake.
 
 #### Example 2 - Suppressed Information
@@ -35,8 +35,8 @@ When you apply the principle of charity, you're looking for what's right rather 
 #### Example 3 - Suppressed Conclusion
 
 1. There are lots of known cases of discrimination against gay academics that are out in their work environment. Do you really think that it’s safe to be out?
-2. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, It’s unsafe for all gay academics to be out in their work environment.
-3. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, probably It’s unsafe for most gay academics to be out in their work environment.
+2. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, it’s unsafe for all gay academics to be out in their work environment.
+3. There are lots of known cases of discrimination against gay academics that are out in their work environment. Therefore, probably it’s unsafe for most gay academics to be out in their work environment.
 
 #### Example 4 - Overly Charitable
 

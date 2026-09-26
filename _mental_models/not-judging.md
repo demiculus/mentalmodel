@@ -12,6 +12,6 @@ prerequisites:
 
 #### Practice
 
-Find a case where you judged others, yourself, cat, anything and try to understand instead that person, understand yourself why you’re feeling what you’re feeling etc..
+Find a case where you judged others, yourself, cat, anything and try to understand that person instead, understand yourself why you’re feeling what you’re feeling etc..
 
 #### Example-1

@@ -1,6 +1,36 @@
 <!-- load theme switcher and barefoot footnotes -->
 
 <!-- <script type="text/javascript" src="{{ "assets/js/theme.js" | relative_url }}"></script> -->
+<script>
+  window.siteBaseUrl = {{ site.baseurl | jsonify }};
+</script>
+<script src="{{ "assets/js/search.js" | relative_url }}"></script>
+<script>
+  (function() {
+    var toggle = document.getElementById('theme-toggle');
+    var root = document.documentElement;
+    toggle.setAttribute('aria-pressed', root.getAttribute('data-theme') === 'dark' ? 'true' : 'false');
+
+    toggle.addEventListener('click', function() {
+      var theme = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+
+      // Switch colors instantly instead of every transition firing at once.
+      // The toggle icons keep their cross-fade.
+      var style = document.createElement('style');
+      style.appendChild(document.createTextNode('*:not(.theme-icon),*::before,*::after{transition:none !important}'));
+      document.head.appendChild(style);
+
+      root.setAttribute('data-theme', theme);
+      toggle.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+      try { localStorage.setItem('theme', theme); } catch (e) {}
+
+      document.body.offsetHeight; // force the new colors to apply now
+      requestAnimationFrame(function() {
+        requestAnimationFrame(function() { style.remove(); });
+      });
+    });
+  })();
+</script>
 {% if site.blog.inline_footnotes == true %}
 <script type="text/javascript" src="{{ "assets/js/barefoot.js" | relative_url }}"></script>
 {% endif %}

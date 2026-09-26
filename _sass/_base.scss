@@ -151,6 +151,34 @@ a, a:hover,a:visited, a:focus {
     text-decoration:none!important;
 }
 
+// Link color. Bootstrap's #007bff is 3.98:1 on white; #0062cc is 5.8:1.
+// "html" in front so these win over the CDN Bootstrap that loads after main.css.
+// Dark mode swaps the values in _dark.scss.
+:root {
+    --link-color: #0062cc;
+    --link-hover-color: #004a99;
+}
+
+html a {
+    color: var(--link-color);
+}
+
+html a:hover,
+html a:focus {
+    color: var(--link-hover-color);
+}
+
+html .btn-primary {
+    background-color: #0062cc;
+    border-color: #0062cc;
+
+    &:hover,
+    &:focus {
+        background-color: #004a99;
+        border-color: #004a99;
+    }
+}
+
 button > a, button > a:hover, button > a:focus {
     text-decoration: none!important;
 }
@@ -215,4 +243,53 @@ button > a, button > a:hover, button > a:focus {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
+}
+
+
+// Long links break instead of pushing the page wider than the screen
+.container p,
+.container li {
+    overflow-wrap: break-word;
+}
+
+// Images never wider than the screen
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+// Home table scrolls sideways on phones instead of the whole page
+.table-scroll {
+    overflow-x: auto;
+}
+
+#coin-table {
+    min-width: 600px;
+
+    thead th {
+        border-top: 0;
+    }
+}
+
+// Popups appear without sliding when the reader asks for less motion
+@media (prefers-reduced-motion: reduce) {
+    .fade,
+    .modal.fade .modal-dialog {
+        transition: none;
+    }
+}
+
+// Focus ring for keyboard users only, not after a mouse click
+.nav-icon-button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+// Readable line length for page text (about 75 characters)
+.prose {
+    max-width: 42rem;
 }

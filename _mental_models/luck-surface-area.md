@@ -14,14 +14,14 @@ The amount of serendipity that will occur in your life, your Luck Surface Area, 
 
 #### Practice
 
-Method1 From doing: 
+Method 1 From doing: 
 Think of something you're doing.
 How much energy are you putting into doing that thing? 
 How much energy are you putting into talking about that thing?
 Which one do you need to increase/decrease in order to achieve your largest Luck Surface Area?
 What are ways I can do more doing/talking?
 
-Method2 From telling: 
+Method 2 From telling: 
 Think of something you're telling.
 How much energy are you putting into doing that thing? 
 How much energy are you putting into talking about that thing?
@@ -50,8 +50,8 @@ I should start telling people
 
 What are ways I can do more telling?
 - Post insta, fb, wp stories when I practice
-- Edit videos of me doing routines, freestlye & maybe create trailers
-- Write blog posts on what I learned during my practices & share them on relevant sub reddits
+- Edit videos of me doing routines, freestyle & maybe create trailers
+- Write blog posts on what I learned during my practices & share them on relevant subreddits
 
 #### Extra
 - https://www.instagram.com/reel/Cu57UxQgKgV

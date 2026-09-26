@@ -2,7 +2,7 @@
 layout: mental-model
 name: Alternative
 benefit: Improves decision making
-summary: Helps finding a way forward
+summary: Helps find a way forward
 prerequisites: 
 ---
 

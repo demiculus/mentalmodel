@@ -42,7 +42,7 @@ Step 5. Choose the best solution and try it out.
 
 1. **Identify the problem**: "I want to lose weight"
 2. **Break it into smaller parts:** Nutrition, exercise, and sleep
-3. **Gather information about each parts:** 
+3. **Gather information about each part:** 
 
 _Nutrition:_ "How much am I eating? How many calories should I consume to lose weight? What types of food should I eat?"
 
@@ -58,7 +58,7 @@ _Sleep_: "How much sleep am I getting? Am I getting good quality of sleep? Are t
 
 1. **Identify the problem:** "I want to save money on my monthly grocery bill."
 2. **Break it into smaller parts:** "What makes up my grocery bill, and how can I reduce the cost of each component?"
-3. **Understand each part indivdually:** "What are the most cost-effective sources of protein, carbohydrates, fruits, and vegetables? Which items are essential, and which can I do without? What is the best way to buy in bulk or take advantage of sales and discounts?"
+3. **Understand each part individually:** "What are the most cost-effective sources of protein, carbohydrates, fruits, and vegetables? Which items are essential, and which can I do without? What is the best way to buy in bulk or take advantage of sales and discounts?"
 4. **Think about how the parts fit together:** "How can I create a grocery list and meal plan that meets my nutritional needs and budget? How can I balance buying in bulk and stocking up on sale items with avoiding waste and spoilage?"
 5. **Choose the best solution and try it out:** "I will plan my meals and grocery list based on cost-effective nutrient sources, buy in bulk when appropriate, and take advantage of sales and discounts on essential items. I will also avoid unnecessary purchases and be mindful of food waste and spoilage."
 

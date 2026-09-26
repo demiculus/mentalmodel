@@ -2,7 +2,7 @@
 layout: mental-model
 name: Dopamine Identification
 benefit: Decreases procrastination
-summary: Seeking dopamine increases our likely hood of being unproductive
+summary: Seeking dopamine increases our likelihood of being unproductive
 prerequisites:
 ---
 
