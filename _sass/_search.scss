@@ -71,6 +71,10 @@ mark.search-hit {
     color: inherit;
     background: transparent;
     border: 0;
+    // No box around the field: it is the only thing in the popup and gets focus
+    // on open, so the blinking cursor (in the link color) shows where you type
+    outline: 0;
+    caret-color: #007bff;
 
     &::-webkit-search-cancel-button {
         display: none;

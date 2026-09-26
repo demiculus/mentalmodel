@@ -94,6 +94,10 @@ $dark-link-hover: #9ccbff;
         border-color: $dark-border;
     }
 
+    .search-input {
+        caret-color: $dark-link;
+    }
+
     .search-input-row,
     .search-footer {
         border-color: $dark-border;
