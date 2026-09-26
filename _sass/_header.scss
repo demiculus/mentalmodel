@@ -37,17 +37,44 @@
     cursor: pointer;
 }
 
-// Extra .theme-toggle so these win over Font Awesome's .fa display rule
-.theme-toggle .theme-icon-dark {
-    display: none;
-}
-
-[data-theme="dark"] .theme-toggle .theme-icon-light {
-    display: none;
-}
-
-[data-theme="dark"] .theme-toggle .theme-icon-dark {
+// Moon and sun share one fixed 1em box, so the button never changes size.
+// Both stay in the DOM and cross-fade.
+.theme-icons {
+    position: relative;
     display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+}
+
+.theme-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .theme-icon {
+        transition-property: opacity, transform, filter;
+        transition-duration: 300ms;
+        transition-timing-function: cubic-bezier(0.2, 0, 0, 1);
+    }
+}
+
+.theme-icon-dark,
+[data-theme="dark"] .theme-icon-light {
+    opacity: 0;
+    transform: scale(0.25);
+    filter: blur(4px);
+}
+
+[data-theme="dark"] .theme-icon-dark {
+    opacity: 1;
+    transform: scale(1);
+    filter: blur(0);
 }
 
 // .menu {

@@ -13,6 +13,7 @@
   var docs = null;
   var loading = null;
   var activeIndex = -1;
+  var opener = null;
 
   function load() {
     if (!loading) {
@@ -176,7 +177,7 @@
 
     var found = search(query);
     if (!found.matches.length) {
-      showMessage('No results for "' + query + '"');
+      showMessage('No results for "' + query + '". Try fewer or different words.');
       return;
     }
 
@@ -209,6 +210,7 @@
   }
 
   function open() {
+    opener = document.activeElement;
     modal.modal('show');
   }
 
@@ -235,7 +237,15 @@
     if (item) setActive(Array.prototype.indexOf.call(results.children, item));
   });
 
+  // Send focus back to whatever opened search
+  modal.on('hidden.bs.modal', function () {
+    input.setAttribute('aria-expanded', 'false');
+    if (opener && opener.focus) opener.focus();
+    opener = null;
+  });
+
   modal.on('shown.bs.modal', function () {
+    input.setAttribute('aria-expanded', 'true');
     input.focus();
     input.select();
     render();

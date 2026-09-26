@@ -8,7 +8,7 @@ layout: default
 
 <div class="call-to-action py-3">
   <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
-    Subscribe For New Practices
+    Subscribe for new practices
   </button>
 
   <!-- Modal -->
@@ -25,7 +25,7 @@ layout: default
           <div class="text-center">
             <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">
               <span class="fa fa-comments"></span>
-              Join our Discord Channel
+              Join our Discord channel
             </a>
           </div>
           <div class="text-center">
@@ -43,6 +43,7 @@ layout: default
 
 
 <div class="container pb-5">
+  <h1 class="sr-only">{{ site.title }}</h1>
   <div class="mt-4 mb-3">
     <button type="button" class="search-launcher" data-search-open>
       <span class="fa fa-search" aria-hidden="true"></span>
@@ -56,8 +57,8 @@ layout: default
     <thead>
       <tr>
         <th>Name</th>
-        <th class="" data-toggle="tooltip" data-placement="top" data-html="true" title="Each mental model benefits the user in someway">Benefit</th>
-        <th class="">Summary</th>
+        <th>Benefit</th>
+        <th>Summary</th>
       </tr>
     </thead>
 
@@ -79,8 +80,3 @@ layout: default
   </table>
   </div>
 </div>
-<script>
-  $(document).ready(function() {
-  $('[data-toggle="tooltip"]').tooltip();
-  } );
-</script>

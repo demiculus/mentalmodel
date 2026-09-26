@@ -242,3 +242,26 @@ button > a, button > a:hover, button > a:focus {
         border-top: 0;
     }
 }
+
+// Popups appear without sliding when the reader asks for less motion
+@media (prefers-reduced-motion: reduce) {
+    .fade,
+    .modal.fade .modal-dialog {
+        transition: none;
+    }
+}
+
+// Focus ring for keyboard users only, not after a mouse click
+.nav-icon-button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+// Readable line length for page text (about 75 characters)
+.prose {
+    max-width: 42rem;
+}
