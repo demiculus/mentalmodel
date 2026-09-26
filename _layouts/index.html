@@ -43,13 +43,16 @@ layout: default
 
 
 <div class="container pb-5">
-  <div class="text-center mt-5 mb-4">
-    <!-- <h1 class="h3">
-      Mental Model Practices
-    </h1> -->
+  <div class="mt-4 mb-3">
+    <button type="button" class="search-launcher" data-search-open>
+      <span class="fa fa-search" aria-hidden="true"></span>
+      <span>Search mental models</span>
+      <kbd class="d-none d-md-inline-block">Ctrl K</kbd>
+    </button>
   </div>
 
-  <table id="coin-table" class="table wrap display" style="width:100%">
+  <div class="table-scroll">
+  <table id="coin-table" class="table">
     <thead>
       <tr>
         <th>Name</th>
@@ -61,7 +64,7 @@ layout: default
     <tbody>
       {% for mental_model in mental_models %}
       <tr>
-        <td data-order="{{ mental_model.name }}" class="align-middle">
+        <td class="align-middle">
           <a href="{{ mental_model.url | prepend: site.baseurl }}">
             <span>{{ mental_model.name }}</span>
           </a>
@@ -74,13 +77,10 @@ layout: default
       {% endfor %}
     </tbody>
   </table>
+  </div>
 </div>
 <script>
   $(document).ready(function() {
-  $('#coin-table').DataTable({
-  ordering: false,
-  paging: false,
-  });
   $('[data-toggle="tooltip"]').tooltip();
   } );
 </script>

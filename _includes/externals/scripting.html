@@ -2,6 +2,10 @@
 
 <!-- <script type="text/javascript" src="{{ "assets/js/theme.js" | relative_url }}"></script> -->
 <script>
+  window.siteBaseUrl = {{ site.baseurl | jsonify }};
+</script>
+<script src="{{ "assets/js/search.js" | relative_url }}"></script>
+<script>
   document.getElementById('theme-toggle').addEventListener('click', function() {
     var theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
     document.documentElement.setAttribute('data-theme', theme);

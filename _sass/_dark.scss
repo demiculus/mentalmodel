@@ -76,20 +76,57 @@ $dark-link-hover: #9ccbff;
         }
     }
 
-    // DataTables search box, sort arrows and info text
-    .form-control {
-        color: $dark-text;
+    // Popups (subscribe, search)
+    .modal-content {
         background-color: $dark-surface;
         border-color: $dark-border;
     }
 
-    .dataTables_wrapper {
+    .close {
+        color: $dark-text;
+        text-shadow: none;
+    }
+
+    // Search
+    .search-launcher {
+        color: $dark-text-muted;
+        background-color: $dark-surface;
+        border-color: $dark-border;
+    }
+
+    .search-input-row,
+    .search-footer {
+        border-color: $dark-border;
+    }
+
+    .search-result.active {
+        background-color: rgba(108, 178, 255, .12);
+    }
+
+    .search-result-title {
+        color: $dark-link;
+    }
+
+    .search-result-section,
+    .search-empty,
+    .search-footer {
         color: $dark-text-muted;
     }
 
-    // Subscribe popup
-    .modal-content {
-        background-color: $dark-surface;
+    .search-result-snippet {
+        color: #c3c7cc;
+    }
+
+    .search-modal mark,
+    mark.search-hit {
+        color: $dark-text;
+        background-color: #5c4d10;
+    }
+
+    .search-launcher kbd,
+    .search-footer kbd {
+        color: $dark-text-muted;
+        background-color: $dark-bg;
         border-color: $dark-border;
     }
 

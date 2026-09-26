@@ -231,7 +231,7 @@ button > a, button > a:hover, button > a:focus {
 }
 
 // Home table scrolls sideways on phones instead of the whole page
-#coin-table_wrapper .col-sm-12 {
+.table-scroll {
     overflow-x: auto;
 }
 
