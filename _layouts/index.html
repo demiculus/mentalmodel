@@ -17,14 +17,14 @@ layout: default
       <div class="modal-content">
         <div class="modal-body">
           <div class="text-center">
-            <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">
-              <span class="fa fa-discord"></span>
+            <a class="btn btn-primary my-3" href="https://www.subscribepage.com/mmpractices" target="_blank">
+              <span class="fa fa-envelope"></span>
               Join our email list
             </a>
           </div>
           <div class="text-center">
             <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">
-              <span class="fa fa-discord"></span>
+              <span class="fa fa-comments"></span>
               Join our Discord Channel
             </a>
           </div>
@@ -49,7 +49,7 @@ layout: default
     </h1> -->
   </div>
 
-  <table id="coin-table" class="sortable table wrap display dt-responsive" style="width:100%">
+  <table id="coin-table" class="table wrap display" style="width:100%">
     <thead>
       <tr>
         <th>Name</th>
@@ -78,8 +78,8 @@ layout: default
 <script>
   $(document).ready(function() {
   $('#coin-table').DataTable({
-  "order": [[ 3, "desc" ]],
-  responsive: true,
+  ordering: false,
+  paging: false,
   });
   $('[data-toggle="tooltip"]').tooltip();
   } );

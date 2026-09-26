@@ -12,8 +12,8 @@ published: true
 
 ### Podcasts/Videos
 
-- [Mental Models 101 - How To Make Better Decisions - George MacGill - Modern Wisdom Podcast #069](https://www.youtube.com/watch?v=m_56L8EGLIk)
-- [Profress Leaves Clues](https://www.youtube.com/channel/UCqwv2pNwm2toS7IzZrvLGPA) youtube channel on mental models.
+- [Mental Models 101 - How To Make Better Decisions - George Mack - Modern Wisdom Podcast #069](https://www.youtube.com/watch?v=m_56L8EGLIk)
+- [Progress Leaves Clues](https://www.youtube.com/channel/UCqwv2pNwm2toS7IzZrvLGPA) youtube channel on mental models.
 - [Safal Niveshak](https://www.youtube.com/user/safalniveshaktv) youtube channel on investment mental models.
 
 ### Blogs
@@ -44,7 +44,7 @@ published: true
 
 - [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
 
-- [What are mental models - Princton](http://mentalmodels.princeton.edu/about/what-are-mental-models/)
+- [What are mental models - Princeton](http://mentalmodels.princeton.edu/about/what-are-mental-models/)
 
 - [True Mental Models](https://truementalmodels.com/)
 
@@ -58,14 +58,9 @@ published: true
 
 [Reach out](https://demiculus.com/)
 
-<script>
-    var ml_webform_1742136 = ml_account('webforms', '1742136', 'z9u7t4', 'load');
-    ml_webform_1742136('animation', 'fadeIn');
-</script>
-
 <div class="text-center">
-    <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">
-      <span class="fa fa-discord"></span>
+    <a class="btn btn-primary my-3" href="https://www.subscribepage.com/mmpractices" target="_blank">
+      <span class="fa fa-envelope"></span>
       Subscribe
     </a>
 </div>

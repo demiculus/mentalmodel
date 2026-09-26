@@ -1,0 +1,104 @@
+// Dark mode
+//-------------------------------
+// Turned on by data-theme="dark" on <html>, set in _includes/main/head.html.
+// Selectors start with [data-theme="dark"] so they win over the CDN Bootstrap
+// that loads after main.css.
+
+$dark-bg: #16181b;
+$dark-surface: #212428;
+$dark-header: #0d0f11;
+$dark-border: #3a3f45;
+$dark-text: #e4e6ea;
+$dark-text-muted: #a0a6ad;
+$dark-link: #6cb2ff;
+$dark-link-hover: #9ccbff;
+
+[data-theme="dark"] {
+    color-scheme: dark;
+    background-color: $dark-bg;
+
+    body {
+        color: $dark-text;
+        background-color: $dark-bg;
+    }
+
+    a {
+        color: $dark-link;
+
+        &:hover,
+        &:focus {
+            color: $dark-link-hover;
+        }
+    }
+
+    // Header
+    .bg-dark {
+        background-color: $dark-header !important;
+    }
+
+    h1, h2, h3, h4, h5, h6,
+    b, strong {
+        color: $dark-text;
+    }
+
+    .text-muted {
+        color: $dark-text-muted !important;
+    }
+
+    hr {
+        border-top-color: $dark-border;
+    }
+
+    blockquote {
+        color: $dark-text-muted;
+        border-left-color: $dark-border;
+    }
+
+    code,
+    pre {
+        color: $dark-text;
+        background-color: $dark-surface;
+    }
+
+    // Subscribe bar
+    .call-to-action {
+        background-color: #1d3a5c;
+    }
+
+    // Tables (home list and any table in page content)
+    .table {
+        color: $dark-text;
+
+        th,
+        td,
+        thead th {
+            border-color: $dark-border;
+        }
+    }
+
+    // DataTables search box, sort arrows and info text
+    .form-control {
+        color: $dark-text;
+        background-color: $dark-surface;
+        border-color: $dark-border;
+    }
+
+    .dataTables_wrapper {
+        color: $dark-text-muted;
+    }
+
+    // Subscribe popup
+    .modal-content {
+        background-color: $dark-surface;
+        border-color: $dark-border;
+    }
+
+    // Footer
+    .custom-shadow {
+        box-shadow: 0 0 4px 1px rgba(0, 0, 0, .6);
+    }
+
+    .footer {
+        background-color: $dark-bg;
+    }
+}

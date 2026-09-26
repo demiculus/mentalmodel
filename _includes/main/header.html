@@ -4,17 +4,17 @@
     <header>
       <div class="py-4 row align-items-center">
 
-        <div class="col-auto mr-auto">
+        <div class="col-12 col-md-auto mr-auto">
 
           <!-- <a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a> -->
           <a href="{{ '/' | prepend: site.baseurl }}" class="text-light">
-              <img class="logosvg" src="{{ '/assets/img/logo_light.png' | prepend: site.baseurl }}">
+              <img class="logosvg" src="{{ '/assets/img/logo_light.png' | prepend: site.baseurl }}" alt="{{ site.title }}">
             </a>
             <!-- <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">Your browser does not support svg images</object> -->
         </div>
 
-        <div class="col-auto align-bottom">
-          <nav class="nav nav-masthead justify-content-center">
+        <div class="col-12 col-md-auto align-bottom">
+          <nav class="nav nav-masthead">
             <a class="nav-link text-light" href="{{ '/bug-fixing' | prepend: site.baseurl }}">
               <span class="fa fa-bug"></span>
               Bugs
@@ -27,7 +27,12 @@
             <a class="nav-link text-light" href="{{ '/about' | prepend: site.baseurl }}">
               <span class="fa fa-info-circle"></span>
               About
-            </a>          
+            </a>
+
+            <button type="button" class="nav-link text-light theme-toggle" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+              <span class="fa fa-moon-o theme-icon-light" aria-hidden="true"></span>
+              <span class="fa fa-sun-o theme-icon-dark" aria-hidden="true"></span>
+            </button>
           </nav>
         </div>
       </div>

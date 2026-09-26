@@ -13,8 +13,41 @@
 
 }
 .logosvg {
-    height: 2.5rem;
+    height: auto;
+    max-height: 2.5rem;
+    max-width: 100%;
+    // The logo PNG has empty space on its left (26px of 1280). Pull it back so
+    // the letters line up with the page text below.
+    margin-left: -0.52rem;
     // -webkit-filter: var(--invert-logo-color);
+}
+
+// Nav sits under the logo on phones, so line up the first link with the logo
+@media (max-width: 767.98px) {
+    .nav-masthead {
+        margin-left: -1rem;
+        margin-top: .5rem;
+    }
+}
+
+// Theme toggle looks like the other nav links
+.theme-toggle {
+    background: none;
+    border: 0;
+    cursor: pointer;
+}
+
+// Extra .theme-toggle so these win over Font Awesome's .fa display rule
+.theme-toggle .theme-icon-dark {
+    display: none;
+}
+
+[data-theme="dark"] .theme-toggle .theme-icon-light {
+    display: none;
+}
+
+[data-theme="dark"] .theme-toggle .theme-icon-dark {
+    display: inline-block;
 }
 
 // .menu {

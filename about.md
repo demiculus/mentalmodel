@@ -7,12 +7,12 @@ published: true
 
 # About
 
-Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing [bug fixing](https://mmpractices.com/bug-fixing/). Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn(install) each mental model. If you run into any trouble you can find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](https://demiculus.com/)
+Imagine your mind as an operating system. Ever since you've come to this world you've been programmed by your parents, friends, society.. You are currently being programmed by me. With such extensive inputs your codes develop many bugs thus you should be doing [bug fixing](https://mmpractices.com/bug-fixing/). Another thing you can do is install stronger apps. These apps are called Mental-Models and this list is to show you how to learn (install) each mental model. If you run into any trouble you can find me on all social networks as [@demiculus](https://twitter.com/demiculus) or reach out from [my website](https://demiculus.com/)
 
 ### Prerequisite
 
 Each mental model is built on top of other Mental-Models. 
-A good example for this is in order to learn Basic Arithmethics you first need to learn Numbers. [Learn more about prerequisites](https://mmpractices.com/mental_models/prerequisites/).
+A good example for this is in order to learn Basic Arithmetic you first need to learn Numbers. [Learn more about prerequisites](https://mmpractices.com/mental_models/prerequisites/).
 
 ### Practicing
 
@@ -20,12 +20,7 @@ Check out [Practice](/practice) to learn how you should practice.
 
 ### Keep In Touch 
 
-<script>
-    var ml_webform_1742136 = ml_account('webforms', '1742136', 'z9u7t4', 'load');
-    ml_webform_1742136('animation', 'fadeIn');
-</script>
-
-- Email: <a class="btn btn-primary my-3" href="javascript:;" onclick="ml_webform_1742136('show')">Join our email list</a>
+- Email: <a class="btn btn-primary my-3" href="https://www.subscribepage.com/mmpractices" target="_blank">Join our email list</a>
 - Discord: <a class="btn btn-primary my-3" href="https://discord.gg/mdTQnNH" target="_blank">Join the chat</a>
 - Twitter: <a class="btn btn-primary my-3" href="https://twitter.com/demiculus" target="_blank">Follow on Twitter</a>
 

@@ -216,3 +216,29 @@ button > a, button > a:hover, button > a:focus {
   -moz-appearance: none;
   appearance: none;
 }
+
+
+// Long links break instead of pushing the page wider than the screen
+.container p,
+.container li {
+    overflow-wrap: break-word;
+}
+
+// Images never wider than the screen
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+// Home table scrolls sideways on phones instead of the whole page
+#coin-table_wrapper .col-sm-12 {
+    overflow-x: auto;
+}
+
+#coin-table {
+    min-width: 600px;
+
+    thead th {
+        border-top: 0;
+    }
+}
