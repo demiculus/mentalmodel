@@ -26,8 +26,8 @@ Now, I would rank them from most useful to least useful as follows:
 - 100x My weight
 - 10x Code
 - 0 IQ of people
-- 10x Girl I like
-- 100x Housemate's pretty friends
+- -10x Girl I like
+- -100x Housemate's pretty friends
 
 This shows what I should invite more into my life and what I should avoid. Of course, I use other mental models to categorize these, and using different mental tools will help me prioritize them in different ways.
 
