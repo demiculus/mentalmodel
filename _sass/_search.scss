@@ -19,25 +19,10 @@
         margin-right: .5rem;
     }
 
-    kbd {
-        margin-left: auto;
-    }
 
     &:hover {
         border-color: #adb5bd;
     }
-}
-
-// Scoped so it wins over Bootstrap's dark kbd style
-.search-launcher kbd,
-.search-footer kbd {
-    padding: .1rem .35rem;
-    font-size: .75rem;
-    color: #495057;
-    background-color: #f1f3f5;
-    border: 1px solid #dee2e6;
-    border-radius: .25rem;
-    box-shadow: none;
 }
 
 .search-modal .modal-dialog {
@@ -74,7 +59,7 @@ mark.search-hit {
     // No box around the field: it is the only thing in the popup and gets focus
     // on open, so the blinking cursor (in the link color) shows where you type
     outline: 0;
-    caret-color: #007bff;
+    caret-color: var(--link-color);
 
     &::-webkit-search-cancel-button {
         display: none;
@@ -98,21 +83,21 @@ mark.search-hit {
     }
 
     &.active {
-        background-color: rgba(0, 123, 255, .08);
+        background-color: rgba(0, 98, 204, .08);
     }
 }
 
 .search-result-title {
     display: block;
     font-weight: 600;
-    color: #007bff;
+    color: var(--link-color);
 }
 
 .search-result-section {
     margin-left: .375rem;
     font-size: .875rem;
     font-weight: 400;
-    color: #6c757d;
+    color: #5a6268;
 }
 
 .search-result-snippet {
@@ -130,13 +115,3 @@ mark.search-hit {
     color: #6c757d;
 }
 
-.search-footer {
-    padding: .5rem 1rem;
-    font-size: .75rem;
-    color: #6c757d;
-    border-top: 1px solid #dee2e6;
-
-    span + span {
-        margin-left: 1rem;
-    }
-}

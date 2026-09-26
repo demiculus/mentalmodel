@@ -22,14 +22,8 @@ $dark-link-hover: #9ccbff;
         background-color: $dark-bg;
     }
 
-    a {
-        color: $dark-link;
-
-        &:hover,
-        &:focus {
-            color: $dark-link-hover;
-        }
-    }
+    --link-color: #{$dark-link};
+    --link-hover-color: #{$dark-link-hover};
 
     // Header
     .bg-dark {
@@ -94,12 +88,7 @@ $dark-link-hover: #9ccbff;
         border-color: $dark-border;
     }
 
-    .search-input {
-        caret-color: $dark-link;
-    }
-
-    .search-input-row,
-    .search-footer {
+    .search-input-row {
         border-color: $dark-border;
     }
 
@@ -107,13 +96,8 @@ $dark-link-hover: #9ccbff;
         background-color: rgba(108, 178, 255, .12);
     }
 
-    .search-result-title {
-        color: $dark-link;
-    }
-
     .search-result-section,
-    .search-empty,
-    .search-footer {
+    .search-empty {
         color: $dark-text-muted;
     }
 
@@ -125,13 +109,6 @@ $dark-link-hover: #9ccbff;
     mark.search-hit {
         color: $dark-text;
         background-color: #5c4d10;
-    }
-
-    .search-launcher kbd,
-    .search-footer kbd {
-        color: $dark-text-muted;
-        background-color: $dark-bg;
-        border-color: $dark-border;
     }
 
     // Footer

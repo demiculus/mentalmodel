@@ -308,11 +308,6 @@
 
   highlightPage();
 
-  // Show the Mac shortcut on Macs
-  if (/Mac|iPhone|iPad/.test(navigator.platform)) {
-    $('.search-launcher kbd').text('⌘ K');
-    $('[data-search-open][title]').attr('title', 'Search (⌘K)');
-  }
 
   document.addEventListener('keydown', function (e) {
     var typing = /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.target.isContentEditable;
