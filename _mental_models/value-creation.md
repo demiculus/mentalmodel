@@ -12,15 +12,15 @@ Value is a relative concept. Something might be valuable for certain entities wh
 
 Say you created a new technology so that eye-glasses can be created for $10 less price. You won't be earning $10 per glasses. You will share that value with a set of other partners. The end user will be able to purchase it for $2 cheaper. The manufacturer will save $3 on materials & time. The store clerk will have an increased margin of $2. So you've basically distributed 70% of the value you've created to other partners, thus they are all happy to work with you. And you get 30% of the value you created.
 
-Lets say you work for a company, you make your company $10k/mo and the company pays you $2k/mo. You are capturing 20% of the value you create for the company. 
+Let's say you work for a company, you make your company $10k/mo and the company pays you $2k/mo. You are capturing 20% of the value you create for the company. 
 
 You will never be able to capture 100% of the value you create. If you try to do that the company won't have a reason to hire you. The store clerk won't have a reason to justify selling your products. The manufacturer won't have a reason to change their production line etc. So in order for other people to work with you you need to be creating them a lot of value. In different industries this % can differ. For some industries you can capture %1-2 of the value for some you can capture 50%. 
 
 Overall if you're capturing very little, you may try to think of ways how to capture more, but majority of the time it is better to increase the amount of value you create for others. 
 
-Another method of capturing value is indirectly. Dan Bricklin the inventor of Spreadsheets. Didn't patent and created billions of $s of value for the global economy without capturing it. But indirectly, due to its fame oppourtunities came in.
+Another method of capturing value is indirectly. Dan Bricklin the inventor of Spreadsheets. Didn't patent and created billions of $s of value for the global economy without capturing it. But indirectly, due to its fame opportunities came in.
 
-You don't need to capture all the value you create. But as long as you're focused on creating value you will find oppourtunities to capture some of it.
+You don't need to capture all the value you create. But as long as you're focused on creating value you will find opportunities to capture some of it.
 
 The values we talked about so far is in monetary form. But this value can be anything. It can be in the form of love, care, time, knowledge, fun. 
 
@@ -35,7 +35,7 @@ The values we talked about so far is in monetary form. But this value can be any
 
 1. Told my friend to invest in crypto.
 2. He invested $1k now it is $10k.
-3. Directly 0, indirectly, he probably feels grateful and will let me know if he sees a similar oppourtunity.
+3. Directly 0, indirectly, he probably feels grateful and will let me know if he sees a similar opportunity.
 
 #### Example-2
 
@@ -51,6 +51,6 @@ The values we talked about so far is in monetary form. But this value can be any
 
 #### Example-4
 
-1. Giving feedback to someones work.
+1. Giving feedback to someone's work.
 2. Making his work 10% better.
 3. I will get to read 10% better articles from him in the future.

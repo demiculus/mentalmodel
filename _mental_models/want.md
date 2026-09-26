@@ -8,7 +8,7 @@ prerequisites:
 
 ## Description
 
-Our mind isn't linear, there are many moving parts and different incentives. This is why it's usually not as clear as we want it to.
+Our mind isn't linear, there are many moving parts and different incentives. This is why it's usually not as clear as we want it to be.
 
 For example: When it comes to work, a part of us might want online work, yet, another part wants close social interactions. While another part wants extended focus time, the other wants to manage people.
 

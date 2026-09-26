@@ -48,9 +48,9 @@ An example usage would be;
 >
 > Q1: Why do I not want to be lonely?
 >
-> A1: Because I will think about all my lifes problems and I'm trying to avoid it.
+> A1: Because I will think about all my life's problems and I'm trying to avoid it.
 >
-> Q1: Why am I avoiding my lifes problems?
+> Q1: Why am I avoiding my life's problems?
 >
 > A1: Because it feels like I won't be able to handle them.
 >
@@ -64,10 +64,10 @@ An example usage would be;
 
 Here we found 2 core bugs. 
 
-1. Avoiding lifes problems
+1. Avoiding life's problems
 2. Lack of self-confidence
 
-Using this tool requires practice (experience) & self honesty. It is not easy to get to the core bugs the first times you try but over time you will start using the tool better. 
+Using this tool requires practice (experience) & self honesty. It is not easy to get to the core bugs the first few times you try but over time you will start using the tool better. 
 
 Note that most of the core problems come from our childhood programming (traumas). Thus it always helps to consult a psychologist or educate yourself about childhood traumas. 
 
@@ -78,7 +78,7 @@ Ideally we want to fix the core bug but every bug requires a different type of t
 1. Create the tool - Humans are very good at creating tools, not just physical but mental ones as well
 2. Research the tool online - It is even easier to copy the tool from someone else
 3. Ask for tools - Telling friends or writing on online forums about our problem is helpful where people are likely to share the tools they know.
-4. Go to a psyhcologist to obtain the tool.
+4. Go to a psychologist to obtain the tool.
 
 Multiple tools might be needed to fix the core bug as well as multiple tools can fix the core bug in different ways on their own. 
 

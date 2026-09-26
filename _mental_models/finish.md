@@ -24,7 +24,7 @@ _Bad Employee_: It is hard for me to test these A/B tests because I have to crea
 
 _Manager_: So? What do you want me to do? Why not solve your problem?
 
-_Bad Employee2:_ It is hard for me to test these abtests. Can you create a task for devs so they can implement a feature where I can change my abtests?
+_Bad Employee2:_ It is hard for me to test these A/B tests. Can you create a task for devs so they can implement a feature where I can change my A/B tests?
 
 _Manager_: Why don’t you create it?
 

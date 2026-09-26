@@ -25,13 +25,13 @@ Think of a couple things you are mostly sure of. Now write down that you are not
 - Tasks: I'm not sure which tasks bring the most output
 - Starbucks: I'm not sure this is the best place to work
 - Selftime: I'm not sure I need to have selftime to feel better
-- Mental Models: I'm note sure MM practices are really working
+- Mental Models: I'm not sure MM practices are really working
 
 #### Example-2
 
 - Life: I have no idea what I will become in the future
 - Walking: I don't know if the way I walk is the correct form of walking
-- Relationships: I don’t know if I’m building good, long lasting ones or not
+- Relationships: I don’t know if I’m building good, long-lasting ones or not
 - Brush teeth: I'm not sure brushing teeth twice a day is the best option
 
 #### Extra

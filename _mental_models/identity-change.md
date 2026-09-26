@@ -36,7 +36,7 @@ Of course, this skill is not as straightforward as it seems. You’ll notice tha
 
 ### Example-2
 
-1. I want to be a get a promotion.
+1. I want to get a promotion.
 2. 
     - I love my job.
     - I love my colleagues.

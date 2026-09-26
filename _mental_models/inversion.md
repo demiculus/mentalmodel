@@ -94,8 +94,7 @@ Drop a mindset that’s holding you back.
 - [Charlie Munger - Inversion](https://www.instagram.com/reel/DC2uIYKNeH7/?igsh=MzRlODBiNWFlZA==)
 - [Charlie Munger - Commencement Address - USC - 16:15 - 17:30](https://youtu.be/5U0TE4oqj24?t=975) 
 - [Farnam Street - Inversion](https://fs.blog/2013/10/inversion/)
-- [
-Progress Leaves Clues - Inverse Thinking](https://www.youtube.com/watch?v=BuK8XNwaUVo)
+- [Progress Leaves Clues - Inverse Thinking](https://www.youtube.com/watch?v=BuK8XNwaUVo)
 - [James Clear - Inversion](https://jamesclear.com/inversion)
 
 

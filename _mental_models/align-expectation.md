@@ -49,7 +49,7 @@ Communication: Hey, can you give me a guest count estimate so I can prepare food
 
 #### Example-6 -> Others aligning our expectations
 
-Situation: Someone wants a task completed**, but since I don't know its urgency, I'm unsure how to prioritize it.
+Situation: Someone wants a task completed, but since I don't know its urgency, I'm unsure how to prioritize it.
 
 Communication: Hey, can you tell me how urgent this is? I currently have these three tasks: A (5 hours), B (25 hours), and C (15 hours).
 

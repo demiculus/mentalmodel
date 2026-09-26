@@ -2,18 +2,18 @@
 layout: mental-model
 name: Thanking
 benefit: Increase good things happening
-summary: Sharing our thankfulness increases the likelyhood of the same action happening
+summary: Sharing our thankfulness increases the likelihood of the same action happening
 prerequisites:
 ---
 
 #### Description
 
-Sincere appreciation increases the likelyhood of other people doing similar actions. Wheres us receiving similar actions. 
+Sincere appreciation increases the likelihood of other people doing similar actions. Wheres us receiving similar actions. 
 Also increases the overall happiness in us & around us and strengthens our relationships.
 
 #### Practice
 
-- Think of someone you interacted within the past day
+- Think of someone you interacted with in the past day
 - Think of something that person did/had which you liked.
 - Message that person thanking them about it. 
 - Feel free to send this link and tell them what you're practicing.

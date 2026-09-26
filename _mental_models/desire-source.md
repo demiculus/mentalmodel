@@ -2,7 +2,7 @@
 layout: mental-model
 name: Desire Source
 benefit: Better decisions
-summary: Understanding where your desire comes will allow control over the decision
+summary: Understanding where your desire comes from will allow control over the decision
 prerequisites: objectivity
 ---
 

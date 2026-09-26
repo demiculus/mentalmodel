@@ -8,7 +8,7 @@ prerequisites:
 
 #### Description
 
-Making tough decisions are hard. People are inclined to avoid or procrastinate rather than make a decision. Putting an artificial deadline in place forces your mind to reach a decision within the set timeframe.
+Making tough decisions is hard. People are inclined to avoid or procrastinate rather than make a decision. Putting an artificial deadline in place forces your mind to reach a decision within the set timeframe.
 
 #### Practice
 
